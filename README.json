@@ -53,7 +53,7 @@
             "last_commit": "2025-04-13T15:01:45Z",
             "owner": "tkashkin",
             "repo": "GameHub",
-            "stars": 2824
+            "stars": 2825
           }
         },
         {
@@ -98,10 +98,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-08-04T23:58:04Z",
+            "last_commit": "2026-08-14T00:33:01Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5576
+            "stars": 5578
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-04-23T11:01:15Z",
             "owner": "pdfpc",
             "repo": "pdfpc",
-            "stars": 1857
+            "stars": 1859
           }
         },
         {
@@ -317,7 +317,7 @@
             "last_commit": "2025-09-24T14:09:08Z",
             "owner": "phw",
             "repo": "peek",
-            "stars": 10560
+            "stars": 10559
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-06-25T15:18:34Z",
             "owner": "ErikReider",
             "repo": "SwayNotificationCenter",
-            "stars": 2556
+            "stars": 2555
           }
         },
         {
@@ -632,7 +632,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:44:00.436Z",
+    "last_updated": "2026-08-14T06:41:31.396Z",
     "original_repository": "vala-lang/awesome-vala",
     "original_repository_sha": "97e0138da559958aaed0c9de2eac530dbd2f9de5",
     "enhanced_repository": "enhansome/enhansome-vala",
