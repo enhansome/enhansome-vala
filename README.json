@@ -19,7 +19,7 @@
             "last_commit": "2025-12-30T23:56:04Z",
             "owner": "akiraux",
             "repo": "Akira",
-            "stars": 5334
+            "stars": 5335
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2025-11-23T19:49:15Z",
             "owner": "johanmattssonm",
             "repo": "birdfont",
-            "stars": 550
+            "stars": 551
           }
         }
       ],
@@ -98,10 +98,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-08-14T00:33:01Z",
+            "last_commit": "2026-08-15T00:46:29Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5578
+            "stars": 5580
           }
         },
         {
@@ -115,7 +115,7 @@
             "last_commit": "2026-08-05T12:38:18Z",
             "owner": "dino",
             "repo": "dino",
-            "stars": 2476
+            "stars": 2475
           }
         },
         {
@@ -317,7 +317,7 @@
             "last_commit": "2025-09-24T14:09:08Z",
             "owner": "phw",
             "repo": "peek",
-            "stars": 10559
+            "stars": 10558
           }
         },
         {
@@ -356,10 +356,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-08-01T12:37:28Z",
+            "last_commit": "2026-08-15T04:32:24Z",
             "owner": "elementary",
             "repo": "monitor",
-            "stars": 361
+            "stars": 362
           }
         },
         {
@@ -632,7 +632,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:41:31.396Z",
+    "last_updated": "2026-08-15T05:38:51.231Z",
     "original_repository": "vala-lang/awesome-vala",
     "original_repository_sha": "97e0138da559958aaed0c9de2eac530dbd2f9de5",
     "enhanced_repository": "enhansome/enhansome-vala",
