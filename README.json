@@ -101,7 +101,7 @@
             "last_commit": "2026-08-15T00:46:29Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5582
+            "stars": 5583
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2025-10-05T16:26:30Z",
             "owner": "lainsce",
             "repo": "notejot",
-            "stars": 415
+            "stars": 416
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-07-17T01:53:19Z",
             "owner": "phase1geo",
             "repo": "Annotator",
-            "stars": 275
+            "stars": 276
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-06-25T15:18:34Z",
             "owner": "ErikReider",
             "repo": "SwayNotificationCenter",
-            "stars": 2557
+            "stars": 2559
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2026-08-15T04:32:24Z",
             "owner": "elementary",
             "repo": "monitor",
-            "stars": 362
+            "stars": 363
           }
         },
         {
@@ -632,7 +632,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:41:43.465Z",
+    "last_updated": "2026-08-17T05:48:43.690Z",
     "original_repository": "vala-lang/awesome-vala",
     "original_repository_sha": "97e0138da559958aaed0c9de2eac530dbd2f9de5",
     "enhanced_repository": "enhansome/enhansome-vala",
