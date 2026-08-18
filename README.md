@@ -51,7 +51,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### Development Tools
 
 * [GitG](https://gitlab.gnome.org/GNOME/gitg) - A graphical user interface for [git](https://git-scm.com/).
-* [Kangaroo](https://github.com/dbkangaroo/kangaroo) ⭐ 514 | 🐛 16 | 🌐 TSQL | 📅 2026-07-31 - AI-powered SQL client and admin tool for popular databases.
+* [Kangaroo](https://github.com/dbkangaroo/kangaroo) ⭐ 515 | 🐛 16 | 🌐 TSQL | 📅 2026-07-31 - AI-powered SQL client and admin tool for popular databases.
 * [VAMM (Vinari OS Apache & MariaDB Manager)](https://gitlab.com/XavierEduardo99/vamm-vinari-software) - Manages LAMP services using a GTK 3 GUI.
 
 ### Games
@@ -75,7 +75,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,583 | 🐛 165 | 🌐 Vala | 📅 2026-08-15 - Task manager with Todoist support designed for GNU/Linux.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,585 | 🐛 164 | 🌐 Vala | 📅 2026-08-15 - Task manager with Todoist support designed for GNU/Linux.
 * [Dino](https://github.com/dino/dino) ⭐ 2,475 | 🐛 679 | 🌐 Vala | 📅 2026-08-05 - A modern Jabber/XMPP Client using GTK+/Vala.
 * [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,859 | 🐛 31 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,388 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
@@ -84,7 +84,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 605 | 🐛 51 | 🌐 Vala | 📅 2022-03-22 - Presentations App for the modern Linux Desktop.
 * [Notejot](https://github.com/lainsce/notejot) ⭐ 416 | 🐛 0 | 🌐 Vala | 📅 2025-10-05 - Stupidly-simple notes app.
 * [Annotator](https://github.com/phase1geo/Annotator) ⭐ 276 | 🐛 8 | 🌐 Vala | 📅 2026-07-17 - Annotate images for better communication.
-* [Flowtime](https://github.com/Diego-Ivan/Flowtime) ⭐ 133 | 🐛 12 | 🌐 Vala | 📅 2025-04-28 - GTK4 Libadwaita Pomodoro Timer.
+* [Flowtime](https://github.com/Diego-Ivan/Flowtime) ⭐ 134 | 🐛 12 | 🌐 Vala | 📅 2025-04-28 - GTK4 Libadwaita Pomodoro Timer.
 * [Ideogram](https://github.com/cassidyjames/ideogram) ⚠️ Archived -  Emoji Picker app.
 * [Outliner](https://github.com/phase1geo/Outliner) ⭐ 63 | 🐛 8 | 🌐 Vala | 📅 2026-07-17 - Write outlines easily.
 * [Badger](https://github.com/elfenware/badger) ⭐ 54 | 🐛 4 | 🌐 Vala | 📅 2025-11-27 - Remind yourself to not sit and stare at the screen for too long.
@@ -98,8 +98,8 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### System Tools
 
 * [Peek](https://github.com/phw/peek) ⚠️ Archived - Simple animated GIF screen recorder with an easy to use interface.
-* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,559 | 🐛 109 | 🌐 Vala | 📅 2026-06-25 - A simple GTK based notification daemon for SwayWM.
-* [elementary OS App Center](https://github.com/elementary/appcenter) ⭐ 551 | 🐛 164 | 🌐 Vala | 📅 2026-08-07 - Pay-what-you-can app store for elementary OS.
+* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,557 | 🐛 109 | 🌐 Vala | 📅 2026-06-25 - A simple GTK based notification daemon for SwayWM.
+* [elementary OS App Center](https://github.com/elementary/appcenter) ⭐ 552 | 🐛 164 | 🌐 Vala | 📅 2026-08-17 - Pay-what-you-can app store for elementary OS.
 * [Monitor](https://github.com/stsdc/monitor) ⭐ 363 | 🐛 34 | 🌐 Vala | 📅 2026-08-15 - Manage processes and monitor system resources.
 * [Man Helper](https://github.com/akarin123/manhelper) ⭐ 11 | 🐛 2 | 🌐 Vala | 📅 2022-07-28 -  A lightweight GTK front-end for man pages.
 * [Connections](https://gitlab.gnome.org/GNOME/connections) - A remote desktop client for the GNOME desktop environment.
@@ -205,4 +205,4 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
