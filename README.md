@@ -76,13 +76,13 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### Productivity
 
 * [Planify](https://github.com/alainm23/planify) ⭐ 5,592 | 🐛 164 | 🌐 Vala | 📅 2026-08-15 - Task manager with Todoist support designed for GNU/Linux.
-* [Dino](https://github.com/dino/dino) ⭐ 2,475 | 🐛 679 | 🌐 Vala | 📅 2026-08-05 - A modern Jabber/XMPP Client using GTK+/Vala.
-* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,859 | 🐛 31 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
+* [Dino](https://github.com/dino/dino) ⭐ 2,474 | 🐛 679 | 🌐 Vala | 📅 2026-08-05 - A modern Jabber/XMPP Client using GTK+/Vala.
+* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,860 | 🐛 31 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,388 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,194 | 🐛 49 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application.
 * [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 632 | 🐛 81 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 605 | 🐛 51 | 🌐 Vala | 📅 2022-03-22 - Presentations App for the modern Linux Desktop.
-* [Notejot](https://github.com/lainsce/notejot) ⭐ 416 | 🐛 0 | 🌐 Vala | 📅 2025-10-05 - Stupidly-simple notes app.
+* [Notejot](https://github.com/lainsce/notejot) ⭐ 417 | 🐛 0 | 🌐 Vala | 📅 2025-10-05 - Stupidly-simple notes app.
 * [Annotator](https://github.com/phase1geo/Annotator) ⭐ 276 | 🐛 8 | 🌐 Vala | 📅 2026-07-17 - Annotate images for better communication.
 * [Flowtime](https://github.com/Diego-Ivan/Flowtime) ⭐ 134 | 🐛 12 | 🌐 Vala | 📅 2025-04-28 - GTK4 Libadwaita Pomodoro Timer.
 * [Ideogram](https://github.com/cassidyjames/ideogram) ⚠️ Archived -  Emoji Picker app.

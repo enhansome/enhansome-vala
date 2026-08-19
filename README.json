@@ -1,386 +1,416 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Akira",
+              "description": "Native Linux App for UI and UX Design built in Vala and GTK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91653269,
+                "language": "Vala",
+                "last_commit": "2025-12-30T23:56:04Z",
+                "owner": "akiraux",
+                "repo": "Akira",
+                "stars": 5336
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Birdfont",
+              "description": "A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25372499,
+                "language": "Vala",
+                "last_commit": "2025-11-23T19:49:15Z",
+                "owner": "johanmattssonm",
+                "repo": "birdfont",
+                "stars": 551
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Design Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GameHub",
+              "description": "A unified library for all your games.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135071605,
+                "language": "Vala",
+                "last_commit": "2025-04-13T15:01:45Z",
+                "owner": "tkashkin",
+                "repo": "GameHub",
+                "stars": 2828
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Warble",
+              "description": "Native Linux word-guessing game built in Vala and Gtk for elementary OS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 444678159,
+                "language": "Vala",
+                "last_commit": "2024-11-05T06:10:16Z",
+                "owner": "avojak",
+                "repo": "warble",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sage",
+              "description": "A code breaking game made for elementary OS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 442313921,
+                "language": "Vala",
+                "last_commit": "2022-08-08T23:40:13Z",
+                "owner": "Antolius",
+                "repo": "Sage",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Games"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Planify",
+              "description": "Task manager with Todoist support designed for GNU/Linux.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154173536,
+                "language": "Vala",
+                "last_commit": "2026-08-15T00:46:29Z",
+                "owner": "alainm23",
+                "repo": "planify",
+                "stars": 5592
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dino",
+              "description": "A modern Jabber/XMPP Client using GTK+/Vala.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83687700,
+                "language": "Vala",
+                "last_commit": "2026-08-05T12:38:18Z",
+                "owner": "dino",
+                "repo": "dino",
+                "stars": 2474
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pdfpc",
+              "description": "A GTK presenter application with multi-monitor support for PDF files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30842668,
+                "language": "Vala",
+                "last_commit": "2026-04-23T11:01:15Z",
+                "owner": "pdfpc",
+                "repo": "pdfpc",
+                "stars": 1860
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TextSnatcher",
+              "description": "Copy text from Images with ease.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 386316098,
+                "language": "Vala",
+                "last_commit": "2024-03-20T10:29:28Z",
+                "owner": "RajSolai",
+                "repo": "TextSnatcher",
+                "stars": 1388
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Minder",
+              "description": "Mind-mapping application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115215556,
+                "language": "Vala",
+                "last_commit": "2026-07-20T23:25:47Z",
+                "owner": "phase1geo",
+                "repo": "Minder",
+                "stars": 1194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Notes-up",
+              "description": "Markdown notes editor & manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44445638,
+                "language": "Vala",
+                "last_commit": "2022-03-24T18:23:24Z",
+                "owner": "Philip-Scott",
+                "repo": "Notes-up",
+                "stars": 632
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spice-up",
+              "description": "Presentations App for the modern Linux Desktop.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67453554,
+                "language": "Vala",
+                "last_commit": "2022-03-22T23:36:23Z",
+                "owner": "Philip-Scott",
+                "repo": "Spice-up",
+                "stars": 605
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Notejot",
+              "description": "Stupidly-simple notes app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92145843,
+                "language": "Vala",
+                "last_commit": "2025-10-05T16:26:30Z",
+                "owner": "lainsce",
+                "repo": "notejot",
+                "stars": 417
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Annotator",
+              "description": "Annotate images for better communication.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286141956,
+                "language": "Vala",
+                "last_commit": "2026-07-17T01:53:19Z",
+                "owner": "phase1geo",
+                "repo": "Annotator",
+                "stars": 276
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flowtime",
+              "description": "GTK4 Libadwaita Pomodoro Timer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 437490731,
+                "language": "Vala",
+                "last_commit": "2025-04-28T16:22:16Z",
+                "owner": "Diego-Ivan",
+                "repo": "Flowtime",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ideogram",
+              "description": "Emoji Picker app.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 153534559,
+                "language": "Vala",
+                "last_commit": "2021-11-17T21:28:48Z",
+                "owner": "cassidyjames",
+                "repo": "ideogram",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Outliner",
+              "description": "Write outlines easily.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149393279,
+                "language": "Vala",
+                "last_commit": "2026-07-17T01:55:51Z",
+                "owner": "phase1geo",
+                "repo": "Outliner",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Badger",
+              "description": "Remind yourself to not sit and stare at the screen for too long.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173600512,
+                "language": "Vala",
+                "last_commit": "2025-11-27T10:37:37Z",
+                "owner": "elfenware",
+                "repo": "badger",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "graphui",
+              "description": "Graph Visualization based on graphviz.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121148924,
+                "language": "Vala",
+                "last_commit": "2022-02-24T10:14:30Z",
+                "owner": "artemanufrij",
+                "repo": "graphui",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TextShine",
+              "description": "Convert and manipulate text.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275611659,
+                "language": "Vala",
+                "last_commit": "2026-07-17T01:56:49Z",
+                "owner": "phase1geo",
+                "repo": "TextShine",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Productivity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Peek",
+              "description": "Simple animated GIF screen recorder with an easy to use interface.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 48430079,
+                "language": "Vala",
+                "last_commit": "2025-09-24T14:09:08Z",
+                "owner": "phw",
+                "repo": "peek",
+                "stars": 10559
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwayNotifiationCenter",
+              "description": "A simple GTK based notification daemon for SwayWM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 390109160,
+                "language": "Vala",
+                "last_commit": "2026-06-25T15:18:34Z",
+                "owner": "ErikReider",
+                "repo": "SwayNotificationCenter",
+                "stars": 2559
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elementary OS App Center",
+              "description": "Pay-what-you-can app store for elementary OS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85217518,
+                "language": "Vala",
+                "last_commit": "2026-08-17T11:01:54Z",
+                "owner": "elementary",
+                "repo": "appcenter",
+                "stars": 553
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Monitor",
+              "description": "Manage processes and monitor system resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98550935,
+                "language": "Vala",
+                "last_commit": "2026-08-15T04:32:24Z",
+                "owner": "elementary",
+                "repo": "monitor",
+                "stars": 363
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Man Helper",
+              "description": "A lightweight GTK front-end for man pages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342060832,
+                "language": "Vala",
+                "last_commit": "2022-07-28T00:04:00Z",
+                "owner": "akarin123",
+                "repo": "manhelper",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "System Tools"
+        }
+      ],
       "title": "Apps"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Akira",
-          "description": "Native Linux App for UI and UX Design built in Vala and GTK.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2025-12-30T23:56:04Z",
-            "owner": "akiraux",
-            "repo": "Akira",
-            "stars": 5336
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Birdfont",
-          "description": "A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2025-11-23T19:49:15Z",
-            "owner": "johanmattssonm",
-            "repo": "birdfont",
-            "stars": 551
-          }
-        }
-      ],
-      "title": "Design Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GameHub",
-          "description": "A unified library for all your games.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2025-04-13T15:01:45Z",
-            "owner": "tkashkin",
-            "repo": "GameHub",
-            "stars": 2828
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Warble",
-          "description": "Native Linux word-guessing game built in Vala and Gtk for elementary OS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2024-11-05T06:10:16Z",
-            "owner": "avojak",
-            "repo": "warble",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sage",
-          "description": "A code breaking game made for elementary OS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2022-08-08T23:40:13Z",
-            "owner": "Antolius",
-            "repo": "Sage",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Games"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Planify",
-          "description": "Task manager with Todoist support designed for GNU/Linux.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-08-15T00:46:29Z",
-            "owner": "alainm23",
-            "repo": "planify",
-            "stars": 5592
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dino",
-          "description": "A modern Jabber/XMPP Client using GTK+/Vala.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-08-05T12:38:18Z",
-            "owner": "dino",
-            "repo": "dino",
-            "stars": 2475
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pdfpc",
-          "description": "A GTK presenter application with multi-monitor support for PDF files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-04-23T11:01:15Z",
-            "owner": "pdfpc",
-            "repo": "pdfpc",
-            "stars": 1859
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TextSnatcher",
-          "description": "Copy text from Images with ease.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2024-03-20T10:29:28Z",
-            "owner": "RajSolai",
-            "repo": "TextSnatcher",
-            "stars": 1388
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Minder",
-          "description": "Mind-mapping application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-07-20T23:25:47Z",
-            "owner": "phase1geo",
-            "repo": "Minder",
-            "stars": 1194
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Notes-up",
-          "description": "Markdown notes editor & manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2022-03-24T18:23:24Z",
-            "owner": "Philip-Scott",
-            "repo": "Notes-up",
-            "stars": 632
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Spice-up",
-          "description": "Presentations App for the modern Linux Desktop.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2022-03-22T23:36:23Z",
-            "owner": "Philip-Scott",
-            "repo": "Spice-up",
-            "stars": 605
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Notejot",
-          "description": "Stupidly-simple notes app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2025-10-05T16:26:30Z",
-            "owner": "lainsce",
-            "repo": "notejot",
-            "stars": 416
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Annotator",
-          "description": "Annotate images for better communication.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-07-17T01:53:19Z",
-            "owner": "phase1geo",
-            "repo": "Annotator",
-            "stars": 276
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flowtime",
-          "description": "GTK4 Libadwaita Pomodoro Timer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2025-04-28T16:22:16Z",
-            "owner": "Diego-Ivan",
-            "repo": "Flowtime",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ideogram",
-          "description": "Emoji Picker app.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2021-11-17T21:28:48Z",
-            "owner": "cassidyjames",
-            "repo": "ideogram",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Outliner",
-          "description": "Write outlines easily.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-07-17T01:55:51Z",
-            "owner": "phase1geo",
-            "repo": "Outliner",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Badger",
-          "description": "Remind yourself to not sit and stare at the screen for too long.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2025-11-27T10:37:37Z",
-            "owner": "elfenware",
-            "repo": "badger",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "graphui",
-          "description": "Graph Visualization based on graphviz.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2022-02-24T10:14:30Z",
-            "owner": "artemanufrij",
-            "repo": "graphui",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TextShine",
-          "description": "Convert and manipulate text.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-07-17T01:56:49Z",
-            "owner": "phase1geo",
-            "repo": "TextShine",
-            "stars": 19
-          }
-        }
-      ],
-      "title": "Productivity"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Peek",
-          "description": "Simple animated GIF screen recorder with an easy to use interface.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2025-09-24T14:09:08Z",
-            "owner": "phw",
-            "repo": "peek",
-            "stars": 10559
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwayNotifiationCenter",
-          "description": "A simple GTK based notification daemon for SwayWM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-06-25T15:18:34Z",
-            "owner": "ErikReider",
-            "repo": "SwayNotificationCenter",
-            "stars": 2559
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elementary OS App Center",
-          "description": "Pay-what-you-can app store for elementary OS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-08-17T11:01:54Z",
-            "owner": "elementary",
-            "repo": "appcenter",
-            "stars": 553
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Monitor",
-          "description": "Manage processes and monitor system resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2026-08-15T04:32:24Z",
-            "owner": "elementary",
-            "repo": "monitor",
-            "stars": 363
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Man Helper",
-          "description": "A lightweight GTK front-end for man pages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2022-07-28T00:04:00Z",
-            "owner": "akarin123",
-            "repo": "manhelper",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "System Tools"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -389,6 +419,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 373027582,
             "language": "Vala",
             "last_commit": "2026-05-13T22:50:28Z",
             "owner": "vala-lang",
@@ -403,6 +434,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 398342517,
             "language": "Vala",
             "last_commit": "2021-11-26T11:28:56Z",
             "owner": "watsonprojects",
@@ -417,6 +449,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 432359822,
             "language": "Vala",
             "last_commit": "2022-01-08T04:14:56Z",
             "owner": "colinkiama",
@@ -431,6 +464,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1296890419,
             "language": "Vala",
             "last_commit": "2026-08-11T03:59:46Z",
             "owner": "ValaTux",
@@ -442,7 +476,7 @@
       "title": "CLI Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -451,6 +485,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244528028,
             "language": "TypeScript",
             "last_commit": "2024-07-18T08:14:45Z",
             "owner": "vala-lang",
@@ -465,6 +500,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1074879,
             "language": null,
             "last_commit": "2016-03-05T03:40:04Z",
             "owner": "technosophos",
@@ -476,164 +512,179 @@
       "title": "Editor Plugins"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Graphene",
+              "description": "A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19352997,
+                "language": "C",
+                "last_commit": "2025-12-19T09:52:43Z",
+                "owner": "ebassi",
+                "repo": "graphene",
+                "stars": 434
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "United",
+              "description": "A library for unit manipulation (like kilograms, meters, etc).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254489598,
+                "language": "Vala",
+                "last_commit": "2020-04-23T09:34:27Z",
+                "owner": "lcallarec",
+                "repo": "united",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Numeric-GLib",
+              "description": "A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72546376,
+                "language": "C",
+                "last_commit": "2020-02-18T13:52:24Z",
+                "owner": "arteymix",
+                "repo": "numeric-glib",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Structures & Data Types"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "live-chart",
+              "description": "A real-time charting library for Vala and GTK3 based on Cairo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202731777,
+                "language": "Vala",
+                "last_commit": "2025-01-24T21:03:23Z",
+                "owner": "lcallarec",
+                "repo": "live-chart",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GRX",
+              "description": "A graphics library for simple graphics displays (think 1-bit displays or Adafruit's PiTFT displays). It also includes keyboard, mouse, joystick and touchscreen input support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23844991,
+                "language": "C",
+                "last_commit": "2020-09-24T01:21:45Z",
+                "owner": "ev3dev",
+                "repo": "grx",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graphics Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "balistica",
+              "description": "An open source ballistic simulation library. There's a complete calculator here.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121293092,
+                "language": "Vala",
+                "last_commit": "2020-08-27T00:23:34Z",
+                "owner": "fusilero",
+                "repo": "libbalistica",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vast",
+              "description": "A project for generative modeling in Vala. Think of TensorFlow rewritten in Vala.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71622183,
+                "language": "Vala",
+                "last_commit": "2017-07-30T23:41:43Z",
+                "owner": "rainwoodman",
+                "repo": "vast",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Numerical Computation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Valum",
+              "description": "A Web micro-framework entirely written in Vala.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2933469,
+                "language": "Vala",
+                "last_commit": "2024-01-24T23:38:44Z",
+                "owner": "valum-framework",
+                "repo": "valum",
+                "stars": 235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ambition",
+              "description": "A web framework written in Vala, with the MVC pattern in mind. Kinda unmaintained (someone could refactor it to use Valum under the hood, and maybe move it to Meson 😉).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7207097,
+                "language": "Vala",
+                "last_commit": "2025-03-31T14:05:38Z",
+                "owner": "AmbitionFramework",
+                "repo": "ambition",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Development"
+        }
+      ],
       "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Graphene",
-          "description": "A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-12-19T09:52:43Z",
-            "owner": "ebassi",
-            "repo": "graphene",
-            "stars": 434
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "United",
-          "description": "A library for unit manipulation (like kilograms, meters, etc).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2020-04-23T09:34:27Z",
-            "owner": "lcallarec",
-            "repo": "united",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Numeric-GLib",
-          "description": "A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-02-18T13:52:24Z",
-            "owner": "arteymix",
-            "repo": "numeric-glib",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Data Structures & Data Types"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "live-chart",
-          "description": "A real-time charting library for Vala and GTK3 based on Cairo.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2025-01-24T21:03:23Z",
-            "owner": "lcallarec",
-            "repo": "live-chart",
-            "stars": 79
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GRX",
-          "description": "A graphics library for simple graphics displays (think 1-bit displays or Adafruit's PiTFT displays). It also includes keyboard, mouse, joystick and touchscreen input support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-09-24T01:21:45Z",
-            "owner": "ev3dev",
-            "repo": "grx",
-            "stars": 21
-          }
-        }
-      ],
-      "title": "Graphics Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "balistica",
-          "description": "An open source ballistic simulation library. There's a complete calculator here.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2020-08-27T00:23:34Z",
-            "owner": "fusilero",
-            "repo": "libbalistica",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vast",
-          "description": "A project for generative modeling in Vala. Think of TensorFlow rewritten in Vala.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2017-07-30T23:41:43Z",
-            "owner": "rainwoodman",
-            "repo": "vast",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Numerical Computation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Valum",
-          "description": "A Web micro-framework entirely written in Vala.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2024-01-24T23:38:44Z",
-            "owner": "valum-framework",
-            "repo": "valum",
-            "stars": 235
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ambition",
-          "description": "A web framework written in Vala, with the MVC pattern in mind. Kinda unmaintained (someone could refactor it to use Valum under the hood, and maybe move it to Meson 😉).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vala",
-            "last_commit": "2025-03-31T14:05:38Z",
-            "owner": "AmbitionFramework",
-            "repo": "ambition",
-            "stars": 34
-          }
-        }
-      ],
-      "title": "Web Development"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:45:46.523Z",
+    "last_updated": "2026-08-19T12:56:25.067Z",
     "original_repository": "vala-lang/awesome-vala",
+    "original_repository_id": 149897823,
     "original_repository_sha": "97e0138da559958aaed0c9de2eac530dbd2f9de5",
     "enhanced_repository": "enhansome/enhansome-vala",
     "enhanced_repository_description": null,
