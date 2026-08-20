@@ -46,7 +46,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### Design Tools
 
 * [Akira](https://github.com/akiraux/Akira) ⭐ 5,336 | 🐛 41 | 🌐 Vala | 📅 2025-12-30 -  Native Linux App for UI and UX Design built in Vala and GTK.
-* [Birdfont](https://github.com/johanmattssonm/birdfont) ⭐ 551 | 🐛 79 | 🌐 Vala | 📅 2025-11-23 - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
+* [Birdfont](https://github.com/johanmattssonm/birdfont) ⭐ 552 | 🐛 79 | 🌐 Vala | 📅 2025-11-23 - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
 
 ### Development Tools
 
@@ -75,15 +75,15 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,592 | 🐛 164 | 🌐 Vala | 📅 2026-08-15 - Task manager with Todoist support designed for GNU/Linux.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,594 | 🐛 165 | 🌐 Vala | 📅 2026-08-15 - Task manager with Todoist support designed for GNU/Linux.
 * [Dino](https://github.com/dino/dino) ⭐ 2,474 | 🐛 679 | 🌐 Vala | 📅 2026-08-05 - A modern Jabber/XMPP Client using GTK+/Vala.
-* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,860 | 🐛 31 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
+* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,861 | 🐛 31 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,388 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,194 | 🐛 49 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application.
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,195 | 🐛 51 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application.
 * [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 632 | 🐛 81 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 605 | 🐛 51 | 🌐 Vala | 📅 2022-03-22 - Presentations App for the modern Linux Desktop.
 * [Notejot](https://github.com/lainsce/notejot) ⭐ 417 | 🐛 0 | 🌐 Vala | 📅 2025-10-05 - Stupidly-simple notes app.
-* [Annotator](https://github.com/phase1geo/Annotator) ⭐ 276 | 🐛 8 | 🌐 Vala | 📅 2026-07-17 - Annotate images for better communication.
+* [Annotator](https://github.com/phase1geo/Annotator) ⭐ 276 | 🐛 9 | 🌐 Vala | 📅 2026-07-17 - Annotate images for better communication.
 * [Flowtime](https://github.com/Diego-Ivan/Flowtime) ⭐ 134 | 🐛 12 | 🌐 Vala | 📅 2025-04-28 - GTK4 Libadwaita Pomodoro Timer.
 * [Ideogram](https://github.com/cassidyjames/ideogram) ⚠️ Archived -  Emoji Picker app.
 * [Outliner](https://github.com/phase1geo/Outliner) ⭐ 63 | 🐛 8 | 🌐 Vala | 📅 2026-07-17 - Write outlines easily.
@@ -121,7 +121,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ## Editor Plugins
 
-* [Vala VSCode](https://github.com/vala-lang/vala-vscode) ⭐ 47 | 🐛 10 | 🌐 TypeScript | 📅 2024-07-18 - A plugin for Visual Studio Code that enables basic autocompletion and syntax highlighting for Vala.
+* [Vala VSCode](https://github.com/vala-lang/vala-vscode) ⭐ 48 | 🐛 10 | 🌐 TypeScript | 📅 2024-07-18 - A plugin for Visual Studio Code that enables basic autocompletion and syntax highlighting for Vala.
 * [Vala-TMBundle](https://github.com/technosophos/Vala-TMBundle) ⭐ 21 | 🐛 2 | 📅 2016-03-05 - A TextMate bundle that provides Vala syntax highlighting, code completion, etc. Sublime Text 3 can also use this plugin.
 * [language-vala-modern](https://atom.io/packages/language-vala-modern) - Provides Vala language support in Atom. It's a fork of the unmaintained "language-vala package".
 * [Vala Syntax 4 Sublime Text](https://launchpad.net/valasyntax4sublimetext) - A basic plugin for Sublime Text 3 that provides syntax highlighting.
@@ -205,4 +205,4 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
