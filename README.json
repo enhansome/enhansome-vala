@@ -54,7 +54,7 @@
                 "last_commit": "2025-04-13T15:01:45Z",
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2830
+                "stars": 2829
               }
             },
             {
@@ -106,7 +106,7 @@
                 "last_commit": "2026-08-23T05:13:57Z",
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5599
+                "stars": 5610
               }
             },
             {
@@ -121,7 +121,7 @@
                 "last_commit": "2026-08-21T16:19:24Z",
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2475
+                "stars": 2476
               }
             },
             {
@@ -136,7 +136,7 @@
                 "last_commit": "2026-04-23T11:01:15Z",
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1862
+                "stars": 1864
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2025-09-24T14:09:08Z",
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10556
+                "stars": 10555
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2026-06-25T15:18:34Z",
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2562
+                "stars": 2564
               }
             },
             {
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:43:17.385Z",
+    "last_updated": "2026-08-24T05:52:02.224Z",
     "original_repository": "vala-lang/awesome-vala",
     "original_repository_id": 149897823,
     "original_repository_sha": "97e0138da559958aaed0c9de2eac530dbd2f9de5",
