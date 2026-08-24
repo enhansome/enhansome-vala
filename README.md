@@ -50,8 +50,8 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Development Tools
 
-* [GitG](https://gitlab.gnome.org/GNOME/gitg) - A graphical user interface for [git](https://git-scm.com/).
 * [Kangaroo](https://github.com/dbkangaroo/kangaroo) ⭐ 516 | 🐛 16 | 🌐 TSQL | 📅 2026-07-31 - AI-powered SQL client and admin tool for popular databases.
+* [GitG](https://gitlab.gnome.org/GNOME/gitg) - A graphical user interface for [git](https://git-scm.com/).
 * [VAMM (Vinari OS Apache & MariaDB Manager)](https://gitlab.com/XavierEduardo99/vamm-vinari-software) - Manages LAMP services using a GTK 3 GUI.
 
 ### Games
@@ -71,15 +71,15 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Personalization
 
-* [Korembi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,754 | 🐛 289 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux.
+* [Korembi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,753 | 🐛 289 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux.
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,610 | 🐛 164 | 🌐 Vala | 📅 2026-08-23 - Task manager with Todoist support designed for GNU/Linux.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,614 | 🐛 164 | 🌐 Vala | 📅 2026-08-24 - Task manager with Todoist support designed for GNU/Linux.
 * [Dino](https://github.com/dino/dino) ⭐ 2,476 | 🐛 679 | 🌐 Vala | 📅 2026-08-21 - A modern Jabber/XMPP Client using GTK+/Vala.
-* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,864 | 🐛 31 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
-* [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,386 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,195 | 🐛 49 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application.
+* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,866 | 🐛 31 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
+* [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,387 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,194 | 🐛 49 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application.
 * [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 632 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 605 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Presentations App for the modern Linux Desktop.
 * [Notejot](https://github.com/lainsce/notejot) ⭐ 417 | 🐛 0 | 🌐 Vala | 📅 2025-10-05 - Stupidly-simple notes app.
@@ -199,9 +199,9 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### XML & Data Serialization
 
+* [libyaml-glib](https://github.com/rainwoodman/libyaml-glib) ⭐ 10 | 🐛 6 | 🌐 Vala | 📅 2019-11-12 - The GLib binding of libyaml, plus a GObject builder that understands YAML.
 * [GXML](https://gitlab.gnome.org/GNOME/gxml/) - A GObject API for manipulating XML and a Serializable framework from GObject to XML.
 * [Json-GLib](https://gitlab.gnome.org/GNOME/json-glib/) - Implements a full JSON parser and generator using GLib and GObject, and integrates JSON with GLib data types.
-* [libyaml-glib](https://github.com/rainwoodman/libyaml-glib) ⭐ 10 | 🐛 6 | 🌐 Vala | 📅 2019-11-12 - The GLib binding of libyaml, plus a GObject builder that understands YAML.
 
 ***
 

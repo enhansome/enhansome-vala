@@ -44,6 +44,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Kangaroo",
+              "description": "AI-powered SQL client and admin tool for popular databases.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183374118,
+                "language": "TSQL",
+                "last_commit": "2026-07-31T06:42:25Z",
+                "owner": "dbkangaroo",
+                "repo": "kangaroo",
+                "stars": 516
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "GameHub",
               "description": "A unified library for all your games.",
               "children": [],
@@ -96,6 +118,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Starfish",
+              "description": "A Gemini browser for elementary OS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 375168683,
+                "language": "Vala",
+                "last_commit": "2022-07-31T18:50:38Z",
+                "owner": "starfish-app",
+                "repo": "Starfish",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Internet Browsers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Korembi",
+              "description": "A beautiful and customizable wallpapers manager for Linux.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80395175,
+                "language": "Vala",
+                "last_commit": "2025-07-21T01:17:17Z",
+                "owner": "christianloopp",
+                "repo": "komorebi",
+                "stars": 3753
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Personalization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Planify",
               "description": "Task manager with Todoist support designed for GNU/Linux.",
               "children": [],
@@ -103,10 +169,10 @@
                 "archived": false,
                 "id": 154173536,
                 "language": "Vala",
-                "last_commit": "2026-08-23T05:13:57Z",
+                "last_commit": "2026-08-24T14:24:34Z",
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5610
+                "stars": 5614
               }
             },
             {
@@ -136,7 +202,7 @@
                 "last_commit": "2026-04-23T11:01:15Z",
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1864
+                "stars": 1866
               }
             },
             {
@@ -151,7 +217,7 @@
                 "last_commit": "2024-03-20T10:29:28Z",
                 "owner": "RajSolai",
                 "repo": "TextSnatcher",
-                "stars": 1386
+                "stars": 1387
               }
             },
             {
@@ -166,7 +232,7 @@
                 "last_commit": "2026-07-20T23:25:47Z",
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1195
+                "stars": 1194
               }
             },
             {
@@ -518,6 +584,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "console-command",
+              "description": "Library to route command-line arguments to a Command pattern object, current implementation covers extension by inheritance or using closures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156238372,
+                "language": "Vala",
+                "last_commit": "2018-11-15T20:52:45Z",
+                "owner": "naaando",
+                "repo": "console-command",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Command-line"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Graphene",
               "description": "A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.",
               "children": [],
@@ -570,6 +658,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Almanna ORM",
+              "description": "The Almanna ORM for Vala/GLib.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7207438,
+                "language": "Vala",
+                "last_commit": "2022-07-04T13:42:41Z",
+                "owner": "AmbitionFramework",
+                "repo": "almanna",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Databases"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "live-chart",
               "description": "A real-time charting library for Vala and GTK3 based on Cairo.",
               "children": [],
@@ -602,6 +712,28 @@
           "description": null,
           "node_type": "group",
           "title": "Graphics Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vadi",
+              "description": "An IoC Container developed in order to facilitate the usage of dependency injection for Vala developers.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 281221211,
+                "language": "Vala",
+                "last_commit": "2022-10-14T16:36:24Z",
+                "owner": "nyx-lyb3ra",
+                "repo": "Vadi",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IoC and Dependency Injection"
         },
         {
           "children": [
@@ -644,6 +776,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Compose",
+              "description": "A functional templating library for Vala.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62075085,
+                "language": "Vala",
+                "last_commit": "2017-10-27T21:55:32Z",
+                "owner": "arteymix",
+                "repo": "compose",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Templating"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "libcmark-vapi",
+              "description": "Vala bindings for libcmark, the CommonMark parsing and rendering library in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135138375,
+                "language": "Vala",
+                "last_commit": "2018-05-28T09:25:48Z",
+                "owner": "fabrixxm",
+                "repo": "libcmark-vapi",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Valum",
               "description": "A Web micro-framework entirely written in Vala.",
               "children": [],
@@ -676,13 +852,35 @@
           "description": null,
           "node_type": "group",
           "title": "Web Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "libyaml-glib",
+              "description": "The GLib binding of libyaml, plus a GObject builder that understands YAML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231206,
+                "language": "Vala",
+                "last_commit": "2019-11-12T23:16:23Z",
+                "owner": "rainwoodman",
+                "repo": "libyaml-glib",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "XML & Data Serialization"
         }
       ],
       "title": "Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:52:02.224Z",
+    "last_updated": "2026-08-24T14:35:01.059Z",
     "original_repository": "vala-lang/awesome-vala",
     "original_repository_id": 149897823,
     "original_repository_sha": "97e0138da559958aaed0c9de2eac530dbd2f9de5",
