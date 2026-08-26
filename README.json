@@ -32,7 +32,7 @@
                 "last_commit": "2025-11-23T19:49:15Z",
                 "owner": "johanmattssonm",
                 "repo": "birdfont",
-                "stars": 554
+                "stars": 555
               }
             }
           ],
@@ -150,7 +150,7 @@
                 "last_commit": "2025-07-21T01:17:17Z",
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3753
+                "stars": 3754
               }
             }
           ],
@@ -169,7 +169,7 @@
                 "archived": false,
                 "id": 154173536,
                 "language": "Vala",
-                "last_commit": "2026-08-25T02:24:02Z",
+                "last_commit": "2026-08-26T01:50:10Z",
                 "owner": "alainm23",
                 "repo": "planify",
                 "stars": 5617
@@ -187,7 +187,7 @@
                 "last_commit": "2026-08-21T16:19:24Z",
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2479
+                "stars": 2480
               }
             },
             {
@@ -202,7 +202,7 @@
                 "last_commit": "2026-04-23T11:01:15Z",
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1866
+                "stars": 1867
               }
             },
             {
@@ -262,7 +262,7 @@
                 "last_commit": "2022-03-22T23:36:23Z",
                 "owner": "Philip-Scott",
                 "repo": "Spice-up",
-                "stars": 605
+                "stars": 604
               }
             },
             {
@@ -289,7 +289,7 @@
                 "archived": false,
                 "id": 286141956,
                 "language": "Vala",
-                "last_commit": "2026-07-17T01:53:19Z",
+                "last_commit": "2026-08-26T04:42:01Z",
                 "owner": "phase1geo",
                 "repo": "Annotator",
                 "stars": 278
@@ -431,7 +431,7 @@
                 "archived": false,
                 "id": 85217518,
                 "language": "Vala",
-                "last_commit": "2026-08-22T11:32:06Z",
+                "last_commit": "2026-08-26T03:50:40Z",
                 "owner": "elementary",
                 "repo": "appcenter",
                 "stars": 554
@@ -668,7 +668,7 @@
                 "last_commit": "2022-07-04T13:42:41Z",
                 "owner": "AmbitionFramework",
                 "repo": "almanna",
-                "stars": 7
+                "stars": 8
               }
             }
           ],
@@ -880,7 +880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:23:18.448Z",
+    "last_updated": "2026-08-26T05:48:59.564Z",
     "original_repository": "vala-lang/awesome-vala",
     "original_repository_id": 149897823,
     "original_repository_sha": "97e0138da559958aaed0c9de2eac530dbd2f9de5",
