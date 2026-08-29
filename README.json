@@ -333,7 +333,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-21T16:19:24Z",
-                "open_issues": 680,
+                "open_issues": 681,
                 "owner": "dino",
                 "repo": "dino",
                 "stars": 2480,
@@ -1458,7 +1458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:51:20.873Z",
+    "last_updated": "2026-08-29T11:39:08.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",

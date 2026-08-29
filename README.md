@@ -76,7 +76,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### Productivity
 
 * [Planify](https://github.com/alainm23/planify) ⭐ 5,631 | 🐛 166 | 🌐 Vala | 📅 2026-08-28 - Task manager with Todoist support designed for GNU/Linux.
-* [Dino](https://github.com/dino/dino) ⭐ 2,480 | 🐛 680 | 🌐 Vala | 📅 2026-08-21 - A modern Jabber/XMPP Client using GTK+/Vala.
+* [Dino](https://github.com/dino/dino) ⭐ 2,480 | 🐛 681 | 🌐 Vala | 📅 2026-08-21 - A modern Jabber/XMPP Client using GTK+/Vala.
 * [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,867 | 🐛 31 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,387 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,197 | 🐛 50 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application.
