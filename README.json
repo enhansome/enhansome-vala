@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native Linux App for UI and UX Design built in Vala and GTK",
+                "homepage": null,
                 "id": 91653269,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-30T23:56:04Z",
+                "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5337
+                "stars": 5337,
+                "topics": [
+                  "appcenter",
+                  "design",
+                  "gtk",
+                  "hacktoberfest",
+                  "linux",
+                  "ui",
+                  "ux",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -28,12 +42,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.",
+                "homepage": "https://birdfont.org",
                 "id": 25372499,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2025-11-23T19:49:15Z",
+                "open_issues": 79,
                 "owner": "johanmattssonm",
                 "repo": "birdfont",
-                "stars": 555
+                "stars": 555,
+                "topics": [
+                  "font-editor",
+                  "fonts",
+                  "otf",
+                  "svg",
+                  "ttf"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -51,12 +76,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kangaroo is an AI-powered SQL client and admin tool for popular databases (MariaDB / MySQL / Oracle / PostgreSQL / Redis / SQLite / SQL Server / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.",
+                "homepage": "https://www.datatable.online/?from=github",
                 "id": 183374118,
                 "language": "TSQL",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-31T06:42:25Z",
+                "open_issues": 16,
                 "owner": "dbkangaroo",
                 "repo": "kangaroo",
-                "stars": 516
+                "stars": 516,
+                "topics": [
+                  "ai",
+                  "database",
+                  "editorconfig",
+                  "gnome",
+                  "linux",
+                  "macos",
+                  "mariadb",
+                  "mongodb",
+                  "mysql",
+                  "odbc",
+                  "ollama-ui",
+                  "oracle",
+                  "postgresql",
+                  "redis",
+                  "sql",
+                  "sqlite",
+                  "sqlserver",
+                  "vala",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -74,12 +124,33 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "All your games in one place",
+                "homepage": "https://tkashkin.github.io/projects/gamehub",
                 "id": 135071605,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-13T15:01:45Z",
+                "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2830
+                "stars": 2830,
+                "topics": [
+                  "elementary",
+                  "elementary-apps",
+                  "elementary-community",
+                  "game-launcher",
+                  "game-library",
+                  "gog",
+                  "gog-games",
+                  "gtk",
+                  "gtk3",
+                  "humble-bundle",
+                  "humblebundle",
+                  "steam",
+                  "steam-games",
+                  "steam-library",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -90,12 +161,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native Linux word-guessing game built in Vala and Gtk for elementary OS",
+                "homepage": null,
                 "id": 444678159,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2024-11-05T06:10:16Z",
+                "open_issues": 5,
                 "owner": "avojak",
                 "repo": "warble",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "elementary-os",
+                  "game",
+                  "gtk",
+                  "gtk4",
+                  "linux",
+                  "vala",
+                  "vala-applications",
+                  "word-game",
+                  "wordle-clone"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -106,12 +192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A code breaking game made for elementary OS.",
+                "homepage": null,
                 "id": 442313921,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2022-08-08T23:40:13Z",
+                "open_issues": 2,
                 "owner": "Antolius",
                 "repo": "Sage",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -129,12 +220,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gemini browser for elementary OS.",
+                "homepage": "gemini://josipantolis.from.hr/starfish/",
                 "id": 375168683,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-31T18:50:38Z",
+                "open_issues": 18,
                 "owner": "starfish-app",
                 "repo": "Starfish",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "elementary-os",
+                  "gemini",
+                  "gemini-client",
+                  "gtk",
+                  "gtk3",
+                  "meson",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -152,12 +256,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A beautiful and customizable wallpapers manager for Linux",
+                "homepage": null,
                 "id": 80395175,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-21T01:17:17Z",
+                "open_issues": 289,
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3753
+                "stars": 3753,
+                "topics": [
+                  "animated",
+                  "background",
+                  "desktop",
+                  "linux",
+                  "vala",
+                  "wallpaper"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -175,12 +291,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
+                "homepage": "https://useplanify.com",
                 "id": 154173536,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T01:47:46Z",
+                "open_issues": 166,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5629
+                "stars": 5631,
+                "topics": [
+                  "caldav",
+                  "gtd",
+                  "libadwaita",
+                  "nextcloud",
+                  "productivity",
+                  "task-manager",
+                  "to-do-list",
+                  "todo",
+                  "todo-app",
+                  "todo-list",
+                  "todoapp",
+                  "todoist",
+                  "todoist-api",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -191,12 +327,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern XMPP (\"Jabber\") Chat Client using GTK/Vala",
+                "homepage": "https://dino.im/",
                 "id": 83687700,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-21T16:19:24Z",
+                "open_issues": 680,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2480
+                "stars": 2480,
+                "topics": [
+                  "chat",
+                  "dino",
+                  "groupchat",
+                  "gtk",
+                  "gtk4",
+                  "jabber",
+                  "jabber-client",
+                  "jingle",
+                  "linux-desktop",
+                  "messenger",
+                  "omemo",
+                  "p2p",
+                  "vala",
+                  "voip",
+                  "xml",
+                  "xmpp",
+                  "xmpp-client"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -207,12 +366,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A presenter console with multi-monitor support for PDF files.",
+                "homepage": "https://pdfpc.github.io/",
                 "id": 30842668,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-23T11:01:15Z",
+                "open_issues": 31,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1867
+                "stars": 1867,
+                "topics": [
+                  "multi-monitor",
+                  "pdf-viewer",
+                  "presentation",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -223,12 +392,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop.",
+                "homepage": "https://textsnatcher.rf.gd/",
                 "id": 386316098,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-20T10:29:28Z",
+                "open_issues": 43,
                 "owner": "RajSolai",
                 "repo": "TextSnatcher",
-                "stars": 1387
+                "stars": 1387,
+                "topics": [
+                  "elementary-apps",
+                  "flatpak",
+                  "gtk3",
+                  "libhandy",
+                  "linux-app",
+                  "meson",
+                  "ocr",
+                  "tesseract-ocr",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -239,12 +423,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mind-mapping application for Elementary OS",
+                "homepage": null,
                 "id": 115215556,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-20T23:25:47Z",
+                "open_issues": 50,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1197
+                "stars": 1197,
+                "topics": [
+                  "markdown",
+                  "mindmap",
+                  "pdf"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -255,12 +448,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Markdown notes editor & manager",
+                "homepage": null,
                 "id": 44445638,
                 "language": "Vala",
+                "license": "GPL-2.0",
                 "last_commit": "2022-03-24T18:23:24Z",
+                "open_issues": 84,
                 "owner": "Philip-Scott",
                 "repo": "Notes-up",
-                "stars": 632
+                "stars": 632,
+                "topics": [
+                  "elementaryos",
+                  "linux",
+                  "markdown",
+                  "notes",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -271,12 +475,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Presentations App for the modern Linux Desktop",
+                "homepage": null,
                 "id": 67453554,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2022-03-22T23:36:23Z",
+                "open_issues": 53,
                 "owner": "Philip-Scott",
                 "repo": "Spice-up",
-                "stars": 604
+                "stars": 604,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -287,12 +496,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stupidly-simple notes app.",
+                "homepage": null,
                 "id": 92145843,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-05T16:26:30Z",
+                "open_issues": 0,
                 "owner": "lainsce",
                 "repo": "notejot",
-                "stars": 417
+                "stars": 417,
+                "topics": [
+                  "gtk4",
+                  "note-taking",
+                  "notebook",
+                  "notes",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -303,12 +523,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image annotation for Elementary OS",
+                "homepage": null,
                 "id": 286141956,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T04:42:01Z",
+                "open_issues": 9,
                 "owner": "phase1geo",
                 "repo": "Annotator",
-                "stars": 278
+                "stars": 278,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -319,12 +544,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spend your time wisely",
+                "homepage": null,
                 "id": 437490731,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-28T16:22:16Z",
+                "open_issues": 12,
                 "owner": "Diego-Ivan",
                 "repo": "Flowtime",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "gtk4",
+                  "libadwaita",
+                  "productivity",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -335,12 +570,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Insert emoji anywhere in elementary OS, even in non-native apps",
+                "homepage": "https://cassidyjames.com",
                 "id": 153534559,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2021-11-17T21:28:48Z",
+                "open_issues": 13,
                 "owner": "cassidyjames",
                 "repo": "ideogram",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "emoji",
+                  "gtk",
+                  "gtk3",
+                  "hacktoberfest",
+                  "meson",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -351,12 +598,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Outlining application for elementary OS",
+                "homepage": null,
                 "id": 149393279,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-17T01:55:51Z",
+                "open_issues": 8,
                 "owner": "phase1geo",
                 "repo": "Outliner",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "office",
+                  "outline",
+                  "outliner",
+                  "writing"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -367,12 +624,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Remind yourself to not sit and stare at the screen for too long",
+                "homepage": null,
                 "id": 173600512,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-27T10:37:37Z",
+                "open_issues": 4,
                 "owner": "elfenware",
                 "repo": "badger",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "appcenter",
+                  "elementary",
+                  "elementary-os",
+                  "elementaryos",
+                  "ergonomics",
+                  "gtk",
+                  "gtk4",
+                  "hacktoberfest",
+                  "health",
+                  "pantheon",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -383,12 +657,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elementary OS app",
+                "homepage": "https://artemanufrij.github.io",
                 "id": 121148924,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2022-02-24T10:14:30Z",
+                "open_issues": 9,
                 "owner": "artemanufrij",
                 "repo": "graphui",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "graphviz",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -399,12 +681,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Text conversion utility",
+                "homepage": null,
                 "id": 275611659,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-17T01:56:49Z",
+                "open_issues": 2,
                 "owner": "phase1geo",
                 "repo": "TextShine",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -422,12 +709,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple animated GIF screen recorder with an easy to use interface",
+                "homepage": null,
                 "id": 48430079,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2025-09-24T14:09:08Z",
+                "open_issues": 5,
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10555
+                "stars": 10555,
+                "topics": [
+                  "apng",
+                  "gif",
+                  "gif-recorder",
+                  "gnome",
+                  "gtk3",
+                  "linux",
+                  "screencast",
+                  "vala",
+                  "wayland",
+                  "webm"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -438,12 +741,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple GTK based notification daemon for any Wayland compositor",
+                "homepage": null,
                 "id": 390109160,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-25T15:18:34Z",
+                "open_issues": 111,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2567
+                "stars": 2567,
+                "topics": [
+                  "adwaita",
+                  "gtk",
+                  "gtk4",
+                  "libadwaita",
+                  "linux",
+                  "notification",
+                  "notification-center",
+                  "notification-server",
+                  "notification-service",
+                  "sway",
+                  "swaywm",
+                  "vala",
+                  "wayland",
+                  "wlroots"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -454,12 +777,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pay-what-you-can app store for elementary OS",
+                "homepage": "https://elementary.io",
                 "id": 85217518,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T03:50:40Z",
+                "open_issues": 166,
                 "owner": "elementary",
                 "repo": "appcenter",
-                "stars": 554
+                "stars": 554,
+                "topics": [
+                  "appstream",
+                  "flatpak",
+                  "gtk",
+                  "gtk4",
+                  "hacktoberfest",
+                  "meson",
+                  "packagekit",
+                  "stripe",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -470,12 +808,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage processes and monitor system resources.",
+                "homepage": null,
                 "id": 98550935,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T03:39:00Z",
+                "open_issues": 38,
                 "owner": "elementary",
                 "repo": "monitor",
-                "stars": 363
+                "stars": 363,
+                "topics": [
+                  "elementary-apps",
+                  "elementary-os",
+                  "elementaryos",
+                  "hacktoberfest",
+                  "libgtop",
+                  "libwnck",
+                  "system-monitor",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -486,12 +838,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight GTK front-end for man pages.",
+                "homepage": null,
                 "id": 342060832,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-28T00:04:00Z",
+                "open_issues": 2,
                 "owner": "akarin123",
                 "repo": "manhelper",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "gtk",
+                  "man",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -513,12 +874,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create new Vala projects from templates",
+            "homepage": null,
             "id": 373027582,
             "language": "Vala",
+            "license": "LGPL-2.1",
             "last_commit": "2026-05-13T22:50:28Z",
+            "open_issues": 9,
             "owner": "vala-lang",
             "repo": "valdo",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "templates",
+              "vala",
+              "vala-developers"
+            ]
           },
           "first_seen": "2026-08-28T17:25:51.720Z"
         },
@@ -529,12 +899,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "quickly read developer documentation",
+            "homepage": null,
             "id": 398342517,
             "language": "Vala",
+            "license": "GPL-3.0",
             "last_commit": "2021-11-26T11:28:56Z",
+            "open_issues": 4,
             "owner": "watsonprojects",
             "repo": "EasyDocs",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:25:51.720Z"
         },
@@ -545,12 +920,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly generate a HTML5 site structure",
+            "homepage": null,
             "id": 432359822,
             "language": "Vala",
+            "license": "MIT",
             "last_commit": "2022-01-08T04:14:56Z",
+            "open_issues": 0,
             "owner": "colinkiama",
             "repo": "spider",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:25:51.720Z"
         },
@@ -561,12 +941,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dependency manager for Vala projects inspired by Composer/Go modules and integrated with Meson subprojects.",
+            "homepage": "https://vamposer.jangalek.dev/",
             "id": 1296890419,
             "language": "Vala",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T03:59:46Z",
+            "open_issues": 4,
             "owner": "ValaTux",
             "repo": "vamposer",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:25:51.720Z"
         }
@@ -583,12 +968,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vala and Genie integration for Visual Studio Code/VSCodium/Code-OSS",
+            "homepage": null,
             "id": 244528028,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-18T08:14:45Z",
+            "open_issues": 10,
             "owner": "vala-lang",
             "repo": "vala-vscode",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "language-server",
+              "open-vsx",
+              "vscode",
+              "vscode-extension",
+              "vscodium"
+            ]
           },
           "first_seen": "2026-08-28T17:25:51.720Z"
         },
@@ -599,12 +995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TextMate bundle for Vala development.",
+            "homepage": null,
             "id": 1074879,
             "language": null,
+            "license": "MIT",
             "last_commit": "2016-03-05T03:40:04Z",
+            "open_issues": 2,
             "owner": "technosophos",
             "repo": "Vala-TMBundle",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:25:51.720Z"
         }
@@ -623,12 +1024,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 156238372,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2018-11-15T20:52:45Z",
+                "open_issues": 1,
                 "owner": "naaando",
                 "repo": "console-command",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -646,12 +1052,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A thin layer of graphic data types",
+                "homepage": "http://ebassi.github.io/graphene",
                 "id": 19352997,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-19T09:52:43Z",
+                "open_issues": 18,
                 "owner": "ebassi",
                 "repo": "graphene",
-                "stars": 434
+                "stars": 434,
+                "topics": [
+                  "3d-transformations",
+                  "c",
+                  "euler",
+                  "graphics-library",
+                  "mathematics",
+                  "matrix",
+                  "quaternion",
+                  "simd",
+                  "transformations",
+                  "vector"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -662,12 +1084,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Units manipulation in Vala made easy",
+                "homepage": null,
                 "id": 254489598,
                 "language": "Vala",
+                "license": "MIT",
                 "last_commit": "2020-04-23T09:34:27Z",
+                "open_issues": 0,
                 "owner": "lcallarec",
                 "repo": "united",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "bytes",
+                  "bytes-formatting",
+                  "prefix-notation",
+                  "unit-conversion",
+                  "unit-converter",
+                  "unit-manipulation",
+                  "vala",
+                  "vala-library",
+                  "value-objects"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -678,12 +1115,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Numeric data types for GLib via GCC extensions",
+                "homepage": null,
                 "id": 72546376,
                 "language": "C",
+                "license": "LGPL-3.0",
                 "last_commit": "2020-02-18T13:52:24Z",
+                "open_issues": 10,
                 "owner": "arteymix",
                 "repo": "numeric-glib",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "128-bit",
+                  "80-bit",
+                  "decimal",
+                  "gcc-extensions",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -701,12 +1149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Almanna ORM for Vala/GLib",
+                "homepage": null,
                 "id": 7207438,
                 "language": "Vala",
+                "license": "Apache-2.0",
                 "last_commit": "2022-07-04T13:42:41Z",
+                "open_issues": 1,
                 "owner": "AmbitionFramework",
                 "repo": "almanna",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -724,12 +1177,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A real-time charting library for Vala and GTK4 based on Cairo",
+                "homepage": null,
                 "id": 202731777,
                 "language": "Vala",
+                "license": "MIT",
                 "last_commit": "2025-01-24T21:03:23Z",
+                "open_issues": 14,
                 "owner": "lcallarec",
                 "repo": "live-chart",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "cairo",
+                  "cairo-chart-library",
+                  "chart",
+                  "chart-widget",
+                  "charting-library",
+                  "elementaryos",
+                  "gtk",
+                  "gtk3",
+                  "vala",
+                  "vala-library",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -740,12 +1210,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GRX 3 Graphics Library",
+                "homepage": null,
                 "id": 23844991,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2020-09-24T01:21:45Z",
+                "open_issues": 12,
                 "owner": "ev3dev",
                 "repo": "grx",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -763,12 +1238,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An IoC Container for Vala",
+                "homepage": null,
                 "id": 281221211,
                 "language": "Vala",
+                "license": "LGPL-3.0",
                 "last_commit": "2022-10-14T16:36:24Z",
+                "open_issues": 4,
                 "owner": "nyx-lyb3ra",
                 "repo": "Vadi",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "dependency-injection",
+                  "glib",
+                  "ioc",
+                  "ioc-container",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -786,12 +1272,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source ballistics library",
+                "homepage": null,
                 "id": 121293092,
                 "language": "Vala",
+                "license": "GPL-3.0",
                 "last_commit": "2020-08-27T00:23:34Z",
+                "open_issues": 4,
                 "owner": "fusilero",
                 "repo": "libbalistica",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "ballistics",
+                  "gplv3",
+                  "meson",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -802,12 +1298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "vala and scientific numerical computation",
+                "homepage": null,
                 "id": 71622183,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2017-07-30T23:41:43Z",
+                "open_issues": 24,
                 "owner": "rainwoodman",
                 "repo": "vast",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -825,12 +1326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional templating for Vala",
+                "homepage": null,
                 "id": 62075085,
                 "language": "Vala",
+                "license": "LGPL-3.0",
                 "last_commit": "2017-10-27T21:55:32Z",
+                "open_issues": 1,
                 "owner": "arteymix",
                 "repo": "compose",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -848,12 +1354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vala bindings for libcmark, the CommonMark parsing and rendering library in C ",
+                "homepage": null,
                 "id": 135138375,
                 "language": "Vala",
+                "license": "BSD-2-Clause",
                 "last_commit": "2018-05-28T09:25:48Z",
+                "open_issues": 0,
                 "owner": "fabrixxm",
                 "repo": "libcmark-vapi",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -871,12 +1382,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web micro-framework written in Vala",
+                "homepage": "https://valum-framework.readthedocs.io/en/latest/",
                 "id": 2933469,
                 "language": "Vala",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-01-24T23:38:44Z",
+                "open_issues": 35,
                 "owner": "valum-framework",
                 "repo": "valum",
-                "stars": 235
+                "stars": 235,
+                "topics": [
+                  "asynchronous",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             },
@@ -887,12 +1406,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Ambition MVC Framework for Vala",
+                "homepage": "http://www.ambitionframework.org",
                 "id": 7207097,
                 "language": "Vala",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-31T14:05:38Z",
+                "open_issues": 0,
                 "owner": "AmbitionFramework",
                 "repo": "ambition",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -910,12 +1434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Building GObjects with YAML",
+                "homepage": null,
                 "id": 231206,
                 "language": "Vala",
+                "license": null,
                 "last_commit": "2019-11-12T23:16:23Z",
+                "open_issues": 6,
                 "owner": "rainwoodman",
                 "repo": "libyaml-glib",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
             }
@@ -929,15 +1458,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:25:51.720Z",
+    "last_updated": "2026-08-29T04:51:20.873Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Vala projects",
+      "homepage": null,
       "id": 149897823,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-06T14:33:57Z",
+      "open_issues": 0,
       "owner": "vala-lang",
       "repo": "awesome-vala",
-      "stars": 230
+      "stars": 230,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "gobject",
+        "hacktoberfest",
+        "vala",
+        "vala-libraries"
+      ]
     },
     "original_repository_sha": "97e0138da559958aaed0c9de2eac530dbd2f9de5",
     "enhanced_repository": "enhansome/enhansome-vala",
