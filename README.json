@@ -21,7 +21,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5337,
+                "stars": 5336,
                 "topics": [
                   "appcenter",
                   "design",
@@ -297,10 +297,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-28T01:47:46Z",
-                "open_issues": 166,
+                "open_issues": 170,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5631,
+                "stars": 5633,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -336,7 +336,7 @@
                 "open_issues": 681,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2480,
+                "stars": 2481,
                 "topics": [
                   "chat",
                   "dino",
@@ -499,13 +499,13 @@
                 "description": "Stupidly-simple notes app.",
                 "homepage": null,
                 "id": 92145843,
-                "language": "Vala",
-                "license": "GPL-3.0",
-                "last_commit": "2025-10-05T16:26:30Z",
+                "language": "Swift",
+                "license": null,
+                "last_commit": "2026-08-30T08:13:42Z",
                 "open_issues": 0,
                 "owner": "lainsce",
                 "repo": "notejot",
-                "stars": 417,
+                "stars": 416,
                 "topics": [
                   "gtk4",
                   "note-taking",
@@ -718,7 +718,7 @@
                 "open_issues": 5,
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10555,
+                "stars": 10554,
                 "topics": [
                   "apng",
                   "gif",
@@ -750,7 +750,7 @@
                 "open_issues": 111,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2567,
+                "stars": 2568,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -783,7 +783,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-26T03:50:40Z",
-                "open_issues": 166,
+                "open_issues": 165,
                 "owner": "elementary",
                 "repo": "appcenter",
                 "stars": 554,
@@ -1458,7 +1458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:39:08.051Z",
+    "last_updated": "2026-08-30T10:28:35.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
