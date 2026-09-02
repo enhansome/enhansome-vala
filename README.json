@@ -133,7 +133,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2830,
+                "stars": 2831,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -296,11 +296,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-01T01:09:04Z",
-                "open_issues": 168,
+                "last_commit": "2026-09-01T23:23:15Z",
+                "open_issues": 170,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5638,
+                "stars": 5641,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -375,7 +375,7 @@
                 "open_issues": 31,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1866,
+                "stars": 1867,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -501,7 +501,7 @@
                 "id": 92145843,
                 "language": "Swift",
                 "license": null,
-                "last_commit": "2026-09-01T01:47:05Z",
+                "last_commit": "2026-09-01T22:30:17Z",
                 "open_issues": 0,
                 "owner": "lainsce",
                 "repo": "notejot",
@@ -782,7 +782,7 @@
                 "id": 85217518,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-26T03:50:40Z",
+                "last_commit": "2026-09-02T06:39:36Z",
                 "open_issues": 165,
                 "owner": "elementary",
                 "repo": "appcenter",
@@ -1061,7 +1061,7 @@
                 "open_issues": 18,
                 "owner": "ebassi",
                 "repo": "graphene",
-                "stars": 434,
+                "stars": 435,
                 "topics": [
                   "3d-transformations",
                   "c",
@@ -1458,7 +1458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T10:04:07.387Z",
+    "last_updated": "2026-09-02T09:35:41.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
