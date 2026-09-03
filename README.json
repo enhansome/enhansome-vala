@@ -21,7 +21,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5337,
+                "stars": 5338,
                 "topics": [
                   "appcenter",
                   "design",
@@ -265,7 +265,7 @@
                 "open_issues": 289,
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3754,
+                "stars": 3753,
                 "topics": [
                   "animated",
                   "background",
@@ -300,7 +300,7 @@
                 "open_issues": 170,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5641,
+                "stars": 5645,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -336,7 +336,7 @@
                 "open_issues": 682,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2483,
+                "stars": 2484,
                 "topics": [
                   "chat",
                   "dino",
@@ -375,7 +375,7 @@
                 "open_issues": 31,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1867,
+                "stars": 1869,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -718,7 +718,7 @@
                 "open_issues": 5,
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10554,
+                "stars": 10553,
                 "topics": [
                   "apng",
                   "gif",
@@ -750,7 +750,7 @@
                 "open_issues": 111,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2569,
+                "stars": 2571,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -786,7 +786,7 @@
                 "open_issues": 165,
                 "owner": "elementary",
                 "repo": "appcenter",
-                "stars": 554,
+                "stars": 555,
                 "topics": [
                   "appstream",
                   "flatpak",
@@ -1458,7 +1458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:35:41.841Z",
+    "last_updated": "2026-09-03T09:46:36.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
