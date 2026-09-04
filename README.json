@@ -51,7 +51,7 @@
                 "open_issues": 79,
                 "owner": "johanmattssonm",
                 "repo": "birdfont",
-                "stars": 555,
+                "stars": 556,
                 "topics": [
                   "font-editor",
                   "fonts",
@@ -296,11 +296,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-01T23:23:15Z",
-                "open_issues": 170,
+                "last_commit": "2026-09-03T23:03:05Z",
+                "open_issues": 167,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5645,
+                "stars": 5650,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -336,7 +336,7 @@
                 "open_issues": 682,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2484,
+                "stars": 2485,
                 "topics": [
                   "chat",
                   "dino",
@@ -372,10 +372,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-04-23T11:01:15Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1869,
+                "stars": 1870,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -401,7 +401,7 @@
                 "open_issues": 43,
                 "owner": "RajSolai",
                 "repo": "TextSnatcher",
-                "stars": 1387,
+                "stars": 1386,
                 "topics": [
                   "elementary-apps",
                   "flatpak",
@@ -432,7 +432,7 @@
                 "open_issues": 50,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1200,
+                "stars": 1201,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -501,11 +501,11 @@
                 "id": 92145843,
                 "language": "Swift",
                 "license": null,
-                "last_commit": "2026-09-01T22:30:17Z",
+                "last_commit": "2026-09-04T03:07:50Z",
                 "open_issues": 0,
                 "owner": "lainsce",
                 "repo": "notejot",
-                "stars": 416,
+                "stars": 417,
                 "topics": [
                   "gtk4",
                   "note-taking",
@@ -718,7 +718,7 @@
                 "open_issues": 5,
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10553,
+                "stars": 10552,
                 "topics": [
                   "apng",
                   "gif",
@@ -750,7 +750,7 @@
                 "open_issues": 111,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2571,
+                "stars": 2570,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -782,11 +782,11 @@
                 "id": 85217518,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T06:39:36Z",
+                "last_commit": "2026-09-03T10:01:58Z",
                 "open_issues": 165,
                 "owner": "elementary",
                 "repo": "appcenter",
-                "stars": 555,
+                "stars": 554,
                 "topics": [
                   "appstream",
                   "flatpak",
@@ -1061,7 +1061,7 @@
                 "open_issues": 18,
                 "owner": "ebassi",
                 "repo": "graphene",
-                "stars": 435,
+                "stars": 436,
                 "topics": [
                   "3d-transformations",
                   "c",
@@ -1458,7 +1458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T09:46:36.280Z",
+    "last_updated": "2026-09-04T09:36:53.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
