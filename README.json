@@ -132,7 +132,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2832,
+                "stars": 2835,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -295,11 +295,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-05T00:28:10Z",
-                "open_issues": 167,
+                "last_commit": "2026-09-06T16:45:01Z",
+                "open_issues": 165,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5656,
+                "stars": 5661,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -374,7 +374,7 @@
                 "open_issues": 32,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1870,
+                "stars": 1871,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -400,7 +400,7 @@
                 "open_issues": 43,
                 "owner": "RajSolai",
                 "repo": "TextSnatcher",
-                "stars": 1388,
+                "stars": 1389,
                 "topics": [
                   "elementary-apps",
                   "flatpak",
@@ -494,7 +494,7 @@
               "description": "Stupidly-simple notes app.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Stupidly-simple notes app.",
                 "homepage": null,
                 "id": 92145843,
@@ -812,7 +812,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-30T19:02:06Z",
+                "last_commit": "2026-09-07T10:03:18Z",
                 "open_issues": 38,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T09:24:54.757Z",
+    "last_updated": "2026-09-07T10:14:41.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
