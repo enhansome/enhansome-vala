@@ -21,7 +21,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5338,
+                "stars": 5337,
                 "topics": [
                   "appcenter",
                   "design",
@@ -85,7 +85,7 @@
                 "open_issues": 16,
                 "owner": "dbkangaroo",
                 "repo": "kangaroo",
-                "stars": 516,
+                "stars": 517,
                 "topics": [
                   "ai",
                   "data-transfer",
@@ -295,11 +295,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T16:45:01Z",
-                "open_issues": 165,
+                "last_commit": "2026-09-08T02:26:57Z",
+                "open_issues": 164,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5661,
+                "stars": 5663,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -332,7 +332,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-21T16:19:24Z",
-                "open_issues": 682,
+                "open_issues": 684,
                 "owner": "dino",
                 "repo": "dino",
                 "stars": 2486,
@@ -531,7 +531,7 @@
                 "open_issues": 9,
                 "owner": "phase1geo",
                 "repo": "Annotator",
-                "stars": 278,
+                "stars": 279,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
@@ -717,7 +717,7 @@
                 "open_issues": 5,
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10552,
+                "stars": 10551,
                 "topics": [
                   "apng",
                   "gif",
@@ -749,7 +749,7 @@
                 "open_issues": 112,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2572,
+                "stars": 2573,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -812,7 +812,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-07T10:03:18Z",
+                "last_commit": "2026-09-07T11:32:44Z",
                 "open_issues": 38,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:14:41.912Z",
+    "last_updated": "2026-09-08T09:39:20.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
