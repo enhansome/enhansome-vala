@@ -21,7 +21,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5337,
+                "stars": 5338,
                 "topics": [
                   "appcenter",
                   "design",
@@ -264,7 +264,7 @@
                 "open_issues": 289,
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3754,
+                "stars": 3755,
                 "topics": [
                   "animated",
                   "background",
@@ -295,11 +295,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-08T02:26:57Z",
-                "open_issues": 164,
+                "last_commit": "2026-09-08T23:39:34Z",
+                "open_issues": 166,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5663,
+                "stars": 5665,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -428,7 +428,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-20T23:25:47Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "phase1geo",
                 "repo": "Minder",
                 "stars": 1201,
@@ -749,7 +749,7 @@
                 "open_issues": 112,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2573,
+                "stars": 2572,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -812,8 +812,8 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-07T11:32:44Z",
-                "open_issues": 38,
+                "last_commit": "2026-09-09T05:28:47Z",
+                "open_issues": 39,
                 "owner": "elementary",
                 "repo": "monitor",
                 "stars": 363,
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T09:39:20.720Z",
+    "last_updated": "2026-09-09T09:42:57.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
