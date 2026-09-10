@@ -71,15 +71,15 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Personalization
 
-* [Korembi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,755 | 🐛 289 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux.
+* [Korembi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,754 | 🐛 289 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux.
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,665 | 🐛 166 | 🌐 Vala | 📅 2026-09-08 - Task manager with Todoist support designed for GNU/Linux.
-* [Dino](https://github.com/dino/dino) ⭐ 2,486 | 🐛 684 | 🌐 Vala | 📅 2026-08-21 - A modern Jabber/XMPP Client using GTK+/Vala.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,673 | 🐛 165 | 🌐 Vala | 📅 2026-09-09 - Task manager with Todoist support designed for GNU/Linux.
+* [Dino](https://github.com/dino/dino) ⭐ 2,487 | 🐛 684 | 🌐 Vala | 📅 2026-08-21 - A modern Jabber/XMPP Client using GTK+/Vala.
 * [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,871 | 🐛 32 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,389 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,201 | 🐛 51 | 🌐 Vala | 📅 2026-07-20 - Mind-mapping application.
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,201 | 🐛 51 | 🌐 Vala | 📅 2026-09-09 - Mind-mapping application.
 * [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 632 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 604 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Presentations App for the modern Linux Desktop.
 * [Notejot](https://github.com/lainsce/notejot) ⚠️ Archived - Stupidly-simple notes app.
@@ -98,9 +98,9 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### System Tools
 
 * [Peek](https://github.com/phw/peek) ⚠️ Archived - Simple animated GIF screen recorder with an easy to use interface.
-* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,572 | 🐛 112 | 🌐 Vala | 📅 2026-06-25 - A simple GTK based notification daemon for SwayWM.
-* [elementary OS App Center](https://github.com/elementary/appcenter) ⭐ 554 | 🐛 165 | 🌐 Vala | 📅 2026-09-03 - Pay-what-you-can app store for elementary OS.
-* [Monitor](https://github.com/stsdc/monitor) ⭐ 363 | 🐛 39 | 🌐 Vala | 📅 2026-09-09 - Manage processes and monitor system resources.
+* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,576 | 🐛 114 | 🌐 Vala | 📅 2026-06-25 - A simple GTK based notification daemon for SwayWM.
+* [elementary OS App Center](https://github.com/elementary/appcenter) ⭐ 554 | 🐛 166 | 🌐 Vala | 📅 2026-09-03 - Pay-what-you-can app store for elementary OS.
+* [Monitor](https://github.com/stsdc/monitor) ⭐ 362 | 🐛 39 | 🌐 Vala | 📅 2026-09-09 - Manage processes and monitor system resources.
 * [Man Helper](https://github.com/akarin123/manhelper) ⭐ 11 | 🐛 2 | 🌐 Vala | 📅 2022-07-28 -  A lightweight GTK front-end for man pages.
 * [Connections](https://gitlab.gnome.org/GNOME/connections) - A remote desktop client for the GNOME desktop environment.
 
@@ -205,4 +205,4 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
