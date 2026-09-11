@@ -21,7 +21,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5338,
+                "stars": 5339,
                 "topics": [
                   "appcenter",
                   "design",
@@ -295,11 +295,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T16:41:09Z",
-                "open_issues": 165,
+                "last_commit": "2026-09-10T18:06:35Z",
+                "open_issues": 166,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5673,
+                "stars": 5674,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -431,7 +431,7 @@
                 "open_issues": 51,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1201,
+                "stars": 1202,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:41:24.148Z",
+    "last_updated": "2026-09-11T09:39:02.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",

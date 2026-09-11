@@ -45,7 +45,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Design Tools
 
-* [Akira](https://github.com/akiraux/Akira) ⭐ 5,338 | 🐛 41 | 🌐 Vala | 📅 2025-12-30 -  Native Linux App for UI and UX Design built in Vala and GTK.
+* [Akira](https://github.com/akiraux/Akira) ⭐ 5,339 | 🐛 41 | 🌐 Vala | 📅 2025-12-30 -  Native Linux App for UI and UX Design built in Vala and GTK.
 * [Birdfont](https://github.com/johanmattssonm/birdfont) ⭐ 556 | 🐛 79 | 🌐 Vala | 📅 2025-11-23 - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
 
 ### Development Tools
@@ -75,11 +75,11 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,673 | 🐛 165 | 🌐 Vala | 📅 2026-09-09 - Task manager with Todoist support designed for GNU/Linux.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,674 | 🐛 166 | 🌐 Vala | 📅 2026-09-10 - Task manager with Todoist support designed for GNU/Linux.
 * [Dino](https://github.com/dino/dino) ⭐ 2,487 | 🐛 684 | 🌐 Vala | 📅 2026-08-21 - A modern Jabber/XMPP Client using GTK+/Vala.
 * [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,871 | 🐛 32 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,389 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,201 | 🐛 51 | 🌐 Vala | 📅 2026-09-09 - Mind-mapping application.
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,202 | 🐛 51 | 🌐 Vala | 📅 2026-09-09 - Mind-mapping application.
 * [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 632 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 604 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Presentations App for the modern Linux Desktop.
 * [Notejot](https://github.com/lainsce/notejot) ⚠️ Archived - Stupidly-simple notes app.
@@ -205,4 +205,4 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
