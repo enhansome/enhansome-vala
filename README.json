@@ -264,7 +264,7 @@
                 "open_issues": 289,
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3755,
+                "stars": 3756,
                 "topics": [
                   "animated",
                   "background",
@@ -296,7 +296,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-10T18:06:35Z",
-                "open_issues": 168,
+                "open_issues": 170,
                 "owner": "alainm23",
                 "repo": "planify",
                 "stars": 5678,
@@ -427,8 +427,8 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T22:55:02Z",
-                "open_issues": 51,
+                "last_commit": "2026-09-12T15:14:21Z",
+                "open_issues": 50,
                 "owner": "phase1geo",
                 "repo": "Minder",
                 "stars": 1202,
@@ -749,7 +749,7 @@
                 "open_issues": 114,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2577,
+                "stars": 2580,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -812,7 +812,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T16:40:32Z",
+                "last_commit": "2026-09-12T16:00:34Z",
                 "open_issues": 39,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:18:57.410Z",
+    "last_updated": "2026-09-13T10:15:12.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
