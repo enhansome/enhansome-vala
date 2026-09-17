@@ -264,7 +264,7 @@
                 "open_issues": 289,
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3758,
+                "stars": 3759,
                 "topics": [
                   "animated",
                   "background",
@@ -295,11 +295,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-10T18:06:35Z",
-                "open_issues": 177,
+                "last_commit": "2026-09-16T16:25:23Z",
+                "open_issues": 175,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5688,
+                "stars": 5689,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -335,7 +335,7 @@
                 "open_issues": 684,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2488,
+                "stars": 2489,
                 "topics": [
                   "chat",
                   "dino",
@@ -374,7 +374,7 @@
                 "open_issues": 32,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1873,
+                "stars": 1874,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -749,7 +749,7 @@
                 "open_issues": 114,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2581,
+                "stars": 2582,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -812,8 +812,8 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T08:07:59Z",
-                "open_issues": 42,
+                "last_commit": "2026-09-17T02:09:20Z",
+                "open_issues": 46,
                 "owner": "elementary",
                 "repo": "monitor",
                 "stars": 362,
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T09:55:36.351Z",
+    "last_updated": "2026-09-17T09:58:12.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
