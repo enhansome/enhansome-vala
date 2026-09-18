@@ -132,7 +132,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2838,
+                "stars": 2837,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -264,7 +264,7 @@
                 "open_issues": 289,
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3759,
+                "stars": 3760,
                 "topics": [
                   "animated",
                   "background",
@@ -400,7 +400,7 @@
                 "open_issues": 43,
                 "owner": "RajSolai",
                 "repo": "TextSnatcher",
-                "stars": 1390,
+                "stars": 1389,
                 "topics": [
                   "elementary-apps",
                   "flatpak",
@@ -431,7 +431,7 @@
                 "open_issues": 50,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1202,
+                "stars": 1201,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -746,10 +746,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-06-25T15:18:34Z",
-                "open_issues": 114,
+                "open_issues": 115,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2582,
+                "stars": 2581,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -812,18 +812,18 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T02:09:20Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-18T04:09:45Z",
+                "open_issues": 50,
                 "owner": "elementary",
                 "repo": "monitor",
-                "stars": 362,
+                "stars": 361,
                 "topics": [
                   "elementary-apps",
                   "elementary-os",
                   "elementaryos",
+                  "gtk4",
                   "hacktoberfest",
                   "libgtop",
-                  "libwnck",
                   "system-monitor",
                   "vala"
                 ]
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:58:12.019Z",
+    "last_updated": "2026-09-18T09:43:53.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
