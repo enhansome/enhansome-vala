@@ -132,7 +132,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2837,
+                "stars": 2836,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -295,11 +295,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T16:25:23Z",
-                "open_issues": 175,
+                "last_commit": "2026-09-18T17:56:21Z",
+                "open_issues": 174,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5689,
+                "stars": 5691,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -335,7 +335,7 @@
                 "open_issues": 684,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2489,
+                "stars": 2491,
                 "topics": [
                   "chat",
                   "dino",
@@ -374,7 +374,7 @@
                 "open_issues": 32,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1874,
+                "stars": 1873,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -504,7 +504,7 @@
                 "open_issues": 0,
                 "owner": "lainsce",
                 "repo": "notejot",
-                "stars": 418,
+                "stars": 419,
                 "topics": [
                   "note-taking",
                   "notebook",
@@ -749,7 +749,7 @@
                 "open_issues": 115,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2581,
+                "stars": 2584,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -812,8 +812,8 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T04:09:45Z",
-                "open_issues": 50,
+                "last_commit": "2026-09-19T07:02:49Z",
+                "open_issues": 51,
                 "owner": "elementary",
                 "repo": "monitor",
                 "stars": 361,
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:43:53.758Z",
+    "last_updated": "2026-09-19T09:28:56.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
