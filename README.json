@@ -21,7 +21,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5341,
+                "stars": 5342,
                 "topics": [
                   "appcenter",
                   "design",
@@ -261,10 +261,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2025-07-21T01:17:17Z",
-                "open_issues": 289,
+                "open_issues": 290,
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3760,
+                "stars": 3762,
                 "topics": [
                   "animated",
                   "background",
@@ -299,7 +299,7 @@
                 "open_issues": 174,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5691,
+                "stars": 5695,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -749,7 +749,7 @@
                 "open_issues": 115,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2584,
+                "stars": 2585,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -781,7 +781,7 @@
                 "id": 85217518,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-15T13:04:40Z",
+                "last_commit": "2026-09-20T09:02:55Z",
                 "open_issues": 166,
                 "owner": "elementary",
                 "repo": "appcenter",
@@ -812,7 +812,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T07:02:49Z",
+                "last_commit": "2026-09-20T04:16:36Z",
                 "open_issues": 51,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -1060,7 +1060,7 @@
                 "open_issues": 18,
                 "owner": "ebassi",
                 "repo": "graphene",
-                "stars": 437,
+                "stars": 438,
                 "topics": [
                   "3d-transformations",
                   "c",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:28:56.568Z",
+    "last_updated": "2026-09-20T09:47:29.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
