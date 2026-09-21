@@ -51,7 +51,7 @@
                 "open_issues": 79,
                 "owner": "johanmattssonm",
                 "repo": "birdfont",
-                "stars": 556,
+                "stars": 557,
                 "topics": [
                   "font-editor",
                   "fonts",
@@ -296,10 +296,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-18T17:56:21Z",
-                "open_issues": 174,
+                "open_issues": 177,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5695,
+                "stars": 5697,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -332,10 +332,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-21T16:19:24Z",
-                "open_issues": 684,
+                "open_issues": 685,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2491,
+                "stars": 2492,
                 "topics": [
                   "chat",
                   "dino",
@@ -431,7 +431,7 @@
                 "open_issues": 50,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1201,
+                "stars": 1202,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -456,7 +456,7 @@
                 "open_issues": 84,
                 "owner": "Philip-Scott",
                 "repo": "Notes-up",
-                "stars": 632,
+                "stars": 631,
                 "topics": [
                   "elementaryos",
                   "linux",
@@ -531,7 +531,7 @@
                 "open_issues": 9,
                 "owner": "phase1geo",
                 "repo": "Annotator",
-                "stars": 279,
+                "stars": 280,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
@@ -717,7 +717,7 @@
                 "open_issues": 5,
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10552,
+                "stars": 10553,
                 "topics": [
                   "apng",
                   "gif",
@@ -785,7 +785,7 @@
                 "open_issues": 166,
                 "owner": "elementary",
                 "repo": "appcenter",
-                "stars": 554,
+                "stars": 553,
                 "topics": [
                   "appstream",
                   "flatpak",
@@ -812,8 +812,8 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T04:16:36Z",
-                "open_issues": 51,
+                "last_commit": "2026-09-21T02:51:52Z",
+                "open_issues": 50,
                 "owner": "elementary",
                 "repo": "monitor",
                 "stars": 361,
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T09:47:29.613Z",
+    "last_updated": "2026-09-21T10:40:54.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
