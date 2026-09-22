@@ -21,7 +21,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5342,
+                "stars": 5343,
                 "topics": [
                   "appcenter",
                   "design",
@@ -51,7 +51,7 @@
                 "open_issues": 79,
                 "owner": "johanmattssonm",
                 "repo": "birdfont",
-                "stars": 557,
+                "stars": 559,
                 "topics": [
                   "font-editor",
                   "fonts",
@@ -264,7 +264,7 @@
                 "open_issues": 290,
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3762,
+                "stars": 3763,
                 "topics": [
                   "animated",
                   "background",
@@ -295,11 +295,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T17:56:21Z",
-                "open_issues": 177,
+                "last_commit": "2026-09-21T15:49:33Z",
+                "open_issues": 175,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5697,
+                "stars": 5699,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -374,7 +374,7 @@
                 "open_issues": 32,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1873,
+                "stars": 1874,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -428,7 +428,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-12T15:14:21Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "phase1geo",
                 "repo": "Minder",
                 "stars": 1202,
@@ -749,7 +749,7 @@
                 "open_issues": 115,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2585,
+                "stars": 2587,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -781,7 +781,7 @@
                 "id": 85217518,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T09:02:55Z",
+                "last_commit": "2026-09-22T03:05:07Z",
                 "open_issues": 166,
                 "owner": "elementary",
                 "repo": "appcenter",
@@ -812,7 +812,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T02:51:52Z",
+                "last_commit": "2026-09-22T04:11:40Z",
                 "open_issues": 50,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -1280,7 +1280,7 @@
                 "open_issues": 4,
                 "owner": "fusilero",
                 "repo": "libbalistica",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "ballistics",
                   "gplv3",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T10:40:54.728Z",
+    "last_updated": "2026-09-22T09:55:27.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
