@@ -21,7 +21,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5343,
+                "stars": 5345,
                 "topics": [
                   "appcenter",
                   "design",
@@ -299,7 +299,7 @@
                 "open_issues": 175,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5699,
+                "stars": 5702,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -427,11 +427,11 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-12T15:14:21Z",
-                "open_issues": 51,
+                "last_commit": "2026-09-23T04:47:32Z",
+                "open_issues": 53,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1202,
+                "stars": 1203,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -749,7 +749,7 @@
                 "open_issues": 115,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2587,
+                "stars": 2589,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -812,8 +812,8 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T04:11:40Z",
-                "open_issues": 50,
+                "last_commit": "2026-09-23T06:35:31Z",
+                "open_issues": 47,
                 "owner": "elementary",
                 "repo": "monitor",
                 "stars": 361,
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T09:55:27.445Z",
+    "last_updated": "2026-09-23T09:57:26.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
@@ -1469,7 +1469,7 @@
       "open_issues": 0,
       "owner": "vala-lang",
       "repo": "awesome-vala",
-      "stars": 231,
+      "stars": 232,
       "topics": [
         "awesome",
         "awesome-list",
