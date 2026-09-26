@@ -132,7 +132,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2836,
+                "stars": 2837,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -299,7 +299,7 @@
                 "open_issues": 182,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5704,
+                "stars": 5705,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -400,7 +400,7 @@
                 "open_issues": 43,
                 "owner": "RajSolai",
                 "repo": "TextSnatcher",
-                "stars": 1389,
+                "stars": 1390,
                 "topics": [
                   "elementary-apps",
                   "flatpak",
@@ -427,8 +427,8 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-25T03:11:24Z",
-                "open_issues": 49,
+                "last_commit": "2026-09-26T06:38:38Z",
+                "open_issues": 47,
                 "owner": "phase1geo",
                 "repo": "Minder",
                 "stars": 1204,
@@ -749,7 +749,7 @@
                 "open_issues": 115,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2591,
+                "stars": 2594,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -812,7 +812,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-25T07:02:29Z",
+                "last_commit": "2026-09-26T03:35:25Z",
                 "open_issues": 47,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -976,7 +976,7 @@
             "open_issues": 10,
             "owner": "vala-lang",
             "repo": "vala-vscode",
-            "stars": 48,
+            "stars": 47,
             "topics": [
               "language-server",
               "open-vsx",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T10:10:40.286Z",
+    "last_updated": "2026-09-26T09:50:57.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
