@@ -51,7 +51,7 @@
                 "open_issues": 79,
                 "owner": "johanmattssonm",
                 "repo": "birdfont",
-                "stars": 560,
+                "stars": 561,
                 "topics": [
                   "font-editor",
                   "fonts",
@@ -132,7 +132,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2838,
+                "stars": 2841,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -264,7 +264,7 @@
                 "open_issues": 290,
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3764,
+                "stars": 3765,
                 "topics": [
                   "animated",
                   "background",
@@ -296,10 +296,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-21T15:49:33Z",
-                "open_issues": 182,
+                "open_issues": 183,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5704,
+                "stars": 5709,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -374,7 +374,7 @@
                 "open_issues": 32,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1875,
+                "stars": 1876,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -427,11 +427,11 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-26T22:13:22Z",
+                "last_commit": "2026-09-28T04:09:37Z",
                 "open_issues": 47,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1204,
+                "stars": 1205,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -685,7 +685,7 @@
                 "id": 275611659,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-17T01:56:49Z",
+                "last_commit": "2026-09-28T04:01:35Z",
                 "open_issues": 2,
                 "owner": "phase1geo",
                 "repo": "TextShine",
@@ -812,7 +812,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-26T15:08:57Z",
+                "last_commit": "2026-09-27T16:11:39Z",
                 "open_issues": 47,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:32:33.836Z",
+    "last_updated": "2026-09-28T11:40:12.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
