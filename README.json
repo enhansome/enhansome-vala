@@ -335,7 +335,7 @@
                 "open_issues": 687,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2495,
+                "stars": 2494,
                 "topics": [
                   "chat",
                   "dino",
@@ -749,7 +749,7 @@
                 "open_issues": 115,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2602,
+                "stars": 2604,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:12:38.077Z",
+    "last_updated": "2026-10-03T10:23:33.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
