@@ -299,7 +299,7 @@
                 "open_issues": 189,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5732,
+                "stars": 5733,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:56:52.868Z",
+    "last_updated": "2026-10-06T12:00:37.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
