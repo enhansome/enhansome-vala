@@ -21,7 +21,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5346,
+                "stars": 5345,
                 "topics": [
                   "appcenter",
                   "design",
@@ -81,7 +81,7 @@
                 "id": 183374118,
                 "language": "TSQL",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T08:10:39Z",
+                "last_commit": "2026-10-06T07:25:34Z",
                 "open_issues": 16,
                 "owner": "dbkangaroo",
                 "repo": "kangaroo",
@@ -132,7 +132,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2844,
+                "stars": 2845,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -264,7 +264,7 @@
                 "open_issues": 290,
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3764,
+                "stars": 3766,
                 "topics": [
                   "animated",
                   "background",
@@ -295,11 +295,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T12:41:22Z",
-                "open_issues": 190,
+                "last_commit": "2026-10-05T23:23:08Z",
+                "open_issues": 189,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5729,
+                "stars": 5732,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -427,7 +427,7 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T13:05:58Z",
+                "last_commit": "2026-10-06T04:41:08Z",
                 "open_issues": 47,
                 "owner": "phase1geo",
                 "repo": "Minder",
@@ -717,7 +717,7 @@
                 "open_issues": 5,
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10551,
+                "stars": 10552,
                 "topics": [
                   "apng",
                   "gif",
@@ -746,10 +746,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-06-25T15:18:34Z",
-                "open_issues": 118,
+                "open_issues": 119,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2604,
+                "stars": 2605,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T12:14:58.791Z",
+    "last_updated": "2026-10-06T10:56:52.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
