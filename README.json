@@ -21,7 +21,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5344,
+                "stars": 5345,
                 "topics": [
                   "appcenter",
                   "design",
@@ -132,7 +132,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2846,
+                "stars": 2845,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -295,8 +295,8 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T17:15:57Z",
-                "open_issues": 189,
+                "last_commit": "2026-10-07T12:48:06Z",
+                "open_issues": 186,
                 "owner": "alainm23",
                 "repo": "planify",
                 "stars": 5733,
@@ -374,7 +374,7 @@
                 "open_issues": 32,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1876,
+                "stars": 1877,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -427,7 +427,7 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-07T04:52:37Z",
+                "last_commit": "2026-10-08T02:14:35Z",
                 "open_issues": 47,
                 "owner": "phase1geo",
                 "repo": "Minder",
@@ -749,7 +749,7 @@
                 "open_issues": 120,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2606,
+                "stars": 2609,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -1060,7 +1060,7 @@
                 "open_issues": 18,
                 "owner": "ebassi",
                 "repo": "graphene",
-                "stars": 439,
+                "stars": 440,
                 "topics": [
                   "3d-transformations",
                   "c",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:45:51.881Z",
+    "last_updated": "2026-10-08T12:00:48.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
