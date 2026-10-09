@@ -295,11 +295,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-07T12:48:06Z",
-                "open_issues": 186,
+                "last_commit": "2026-10-08T13:15:42Z",
+                "open_issues": 185,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5733,
+                "stars": 5732,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -374,7 +374,7 @@
                 "open_issues": 32,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1877,
+                "stars": 1878,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -427,7 +427,7 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T02:14:35Z",
+                "last_commit": "2026-10-09T05:02:48Z",
                 "open_issues": 47,
                 "owner": "phase1geo",
                 "repo": "Minder",
@@ -749,7 +749,7 @@
                 "open_issues": 120,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2609,
+                "stars": 2610,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -813,7 +813,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-03T18:04:39Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "elementary",
                 "repo": "monitor",
                 "stars": 361,
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T12:00:48.746Z",
+    "last_updated": "2026-10-09T11:52:53.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
