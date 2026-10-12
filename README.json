@@ -21,7 +21,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5346,
+                "stars": 5345,
                 "topics": [
                   "appcenter",
                   "design",
@@ -85,7 +85,7 @@
                 "open_issues": 16,
                 "owner": "dbkangaroo",
                 "repo": "kangaroo",
-                "stars": 518,
+                "stars": 517,
                 "topics": [
                   "ai",
                   "data-transfer",
@@ -264,7 +264,7 @@
                 "open_issues": 290,
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3765,
+                "stars": 3766,
                 "topics": [
                   "animated",
                   "background",
@@ -299,7 +299,7 @@
                 "open_issues": 186,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5738,
+                "stars": 5743,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -335,7 +335,7 @@
                 "open_issues": 687,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2497,
+                "stars": 2498,
                 "topics": [
                   "chat",
                   "dino",
@@ -374,7 +374,7 @@
                 "open_issues": 32,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1879,
+                "stars": 1880,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -397,7 +397,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2024-03-20T10:29:28Z",
-                "open_issues": 43,
+                "open_issues": 42,
                 "owner": "RajSolai",
                 "repo": "TextSnatcher",
                 "stars": 1390,
@@ -427,7 +427,7 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-11T03:37:41Z",
+                "last_commit": "2026-10-12T03:16:28Z",
                 "open_issues": 47,
                 "owner": "phase1geo",
                 "repo": "Minder",
@@ -602,7 +602,7 @@
                 "id": 149393279,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-07-17T01:55:51Z",
+                "last_commit": "2026-10-12T04:08:18Z",
                 "open_issues": 8,
                 "owner": "phase1geo",
                 "repo": "Outliner",
@@ -717,7 +717,7 @@
                 "open_issues": 5,
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10549,
+                "stars": 10548,
                 "topics": [
                   "apng",
                   "gif",
@@ -749,7 +749,7 @@
                 "open_issues": 121,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2613,
+                "stars": 2614,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -781,7 +781,7 @@
                 "id": 85217518,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T15:23:57Z",
+                "last_commit": "2026-10-12T08:03:52Z",
                 "open_issues": 166,
                 "owner": "elementary",
                 "repo": "appcenter",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:23:16.850Z",
+    "last_updated": "2026-10-12T13:08:35.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
