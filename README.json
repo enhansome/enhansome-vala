@@ -21,7 +21,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5347,
+                "stars": 5348,
                 "topics": [
                   "appcenter",
                   "design",
@@ -132,7 +132,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2850,
+                "stars": 2851,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -296,10 +296,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-16T20:22:10Z",
-                "open_issues": 182,
+                "open_issues": 187,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5757,
+                "stars": 5758,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -335,7 +335,7 @@
                 "open_issues": 690,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2502,
+                "stars": 2503,
                 "topics": [
                   "chat",
                   "dino",
@@ -371,10 +371,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-04-23T11:01:15Z",
-                "open_issues": 32,
+                "open_issues": 34,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1883,
+                "stars": 1884,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -431,7 +431,7 @@
                 "open_issues": 49,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1209,
+                "stars": 1210,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -717,7 +717,7 @@
                 "open_issues": 5,
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10546,
+                "stars": 10547,
                 "topics": [
                   "apng",
                   "gif",
@@ -812,7 +812,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T20:04:21Z",
+                "last_commit": "2026-10-20T21:04:36Z",
                 "open_issues": 47,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -1390,7 +1390,7 @@
                 "open_issues": 35,
                 "owner": "valum-framework",
                 "repo": "valum",
-                "stars": 236,
+                "stars": 237,
                 "topics": [
                   "asynchronous",
                   "web-framework"
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T10:01:01.398Z",
+    "last_updated": "2026-10-21T10:05:51.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
