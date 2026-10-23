@@ -132,7 +132,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2852,
+                "stars": 2853,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -296,10 +296,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-21T17:09:47Z",
-                "open_issues": 190,
+                "open_issues": 192,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5762,
+                "stars": 5763,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -749,7 +749,7 @@
                 "open_issues": 125,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2623,
+                "stars": 2624,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -781,7 +781,7 @@
                 "id": 85217518,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-19T08:19:18Z",
+                "last_commit": "2026-10-23T02:43:03Z",
                 "open_issues": 166,
                 "owner": "elementary",
                 "repo": "appcenter",
@@ -812,8 +812,8 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T02:36:00Z",
-                "open_issues": 47,
+                "last_commit": "2026-10-22T15:58:25Z",
+                "open_issues": 46,
                 "owner": "elementary",
                 "repo": "monitor",
                 "stars": 360,
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T10:08:39.399Z",
+    "last_updated": "2026-10-23T10:01:17.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
