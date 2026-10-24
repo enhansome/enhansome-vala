@@ -132,7 +132,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2853,
+                "stars": 2854,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -296,7 +296,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-21T17:09:47Z",
-                "open_issues": 192,
+                "open_issues": 194,
                 "owner": "alainm23",
                 "repo": "planify",
                 "stars": 5763,
@@ -331,11 +331,11 @@
                 "id": 83687700,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-21T16:19:24Z",
+                "last_commit": "2026-10-23T14:38:06Z",
                 "open_issues": 690,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2503,
+                "stars": 2502,
                 "topics": [
                   "chat",
                   "dino",
@@ -374,7 +374,7 @@
                 "open_issues": 35,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1886,
+                "stars": 1885,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -400,7 +400,7 @@
                 "open_issues": 42,
                 "owner": "RajSolai",
                 "repo": "TextSnatcher",
-                "stars": 1391,
+                "stars": 1390,
                 "topics": [
                   "elementary-apps",
                   "flatpak",
@@ -717,7 +717,7 @@
                 "open_issues": 5,
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10546,
+                "stars": 10543,
                 "topics": [
                   "apng",
                   "gif",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T10:01:17.597Z",
+    "last_updated": "2026-10-24T09:30:54.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
