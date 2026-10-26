@@ -21,7 +21,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5349,
+                "stars": 5348,
                 "topics": [
                   "appcenter",
                   "design",
@@ -132,7 +132,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2858,
+                "stars": 2860,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -296,10 +296,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-21T17:09:47Z",
-                "open_issues": 194,
+                "open_issues": 201,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5764,
+                "stars": 5768,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -335,7 +335,7 @@
                 "open_issues": 689,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2502,
+                "stars": 2504,
                 "topics": [
                   "chat",
                   "dino",
@@ -527,7 +527,7 @@
                 "id": 286141956,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-25T03:54:19Z",
+                "last_commit": "2026-10-26T04:52:11Z",
                 "open_issues": 9,
                 "owner": "phase1geo",
                 "repo": "Annotator",
@@ -749,7 +749,7 @@
                 "open_issues": 125,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2627,
+                "stars": 2628,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:47:18.655Z",
+    "last_updated": "2026-10-26T11:03:47.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
