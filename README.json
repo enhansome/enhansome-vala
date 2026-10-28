@@ -21,7 +21,7 @@
                 "open_issues": 41,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5348,
+                "stars": 5349,
                 "topics": [
                   "appcenter",
                   "design",
@@ -51,7 +51,7 @@
                 "open_issues": 80,
                 "owner": "johanmattssonm",
                 "repo": "birdfont",
-                "stars": 562,
+                "stars": 563,
                 "topics": [
                   "font-editor",
                   "fonts",
@@ -85,7 +85,7 @@
                 "open_issues": 16,
                 "owner": "dbkangaroo",
                 "repo": "kangaroo",
-                "stars": 516,
+                "stars": 517,
                 "topics": [
                   "ai",
                   "data-transfer",
@@ -296,10 +296,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-26T14:53:35Z",
-                "open_issues": 206,
+                "open_issues": 207,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5770,
+                "stars": 5771,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -335,7 +335,7 @@
                 "open_issues": 690,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2504,
+                "stars": 2505,
                 "topics": [
                   "chat",
                   "dino",
@@ -527,7 +527,7 @@
                 "id": 286141956,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-27T04:44:02Z",
+                "last_commit": "2026-10-28T05:10:36Z",
                 "open_issues": 9,
                 "owner": "phase1geo",
                 "repo": "Annotator",
@@ -812,11 +812,11 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T15:58:25Z",
+                "last_commit": "2026-10-28T06:12:41Z",
                 "open_issues": 46,
                 "owner": "elementary",
                 "repo": "monitor",
-                "stars": 361,
+                "stars": 362,
                 "topics": [
                   "elementary-apps",
                   "elementary-os",
@@ -1060,7 +1060,7 @@
                 "open_issues": 18,
                 "owner": "ebassi",
                 "repo": "graphene",
-                "stars": 441,
+                "stars": 442,
                 "topics": [
                   "3d-transformations",
                   "c",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T10:30:45.053Z",
+    "last_updated": "2026-10-28T11:18:41.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
@@ -1469,7 +1469,7 @@
       "open_issues": 0,
       "owner": "vala-lang",
       "repo": "awesome-vala",
-      "stars": 233,
+      "stars": 234,
       "topics": [
         "awesome",
         "awesome-list",
