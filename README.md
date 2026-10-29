@@ -50,7 +50,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Development Tools
 
-* [Kangaroo](https://github.com/dbkangaroo/kangaroo) ⭐ 517 | 🐛 16 | 🌐 TSQL | 📅 2026-10-06 - AI-powered SQL client and admin tool for popular databases.
+* [Kangaroo](https://github.com/dbkangaroo/kangaroo) ⭐ 518 | 🐛 16 | 🌐 TSQL | 📅 2026-10-06 - AI-powered SQL client and admin tool for popular databases.
 * [GitG](https://gitlab.gnome.org/GNOME/gitg) - A graphical user interface for [git](https://git-scm.com/).
 * [VAMM (Vinari OS Apache & MariaDB Manager)](https://gitlab.com/XavierEduardo99/vamm-vinari-software) - Manages LAMP services using a GTK 3 GUI.
 
@@ -71,19 +71,19 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Personalization
 
-* [Korembi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,764 | 🐛 290 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux.
+* [Korembi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,763 | 🐛 290 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux.
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,771 | 🐛 207 | 🌐 Vala | 📅 2026-10-26 - Task manager with Todoist support designed for GNU/Linux.
-* [Dino](https://github.com/dino/dino) ⭐ 2,505 | 🐛 690 | 🌐 Vala | 📅 2026-10-24 - A modern Jabber/XMPP Client using GTK+/Vala.
-* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,886 | 🐛 35 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,776 | 🐛 210 | 🌐 Vala | 📅 2026-10-26 - Task manager with Todoist support designed for GNU/Linux.
+* [Dino](https://github.com/dino/dino) ⭐ 2,506 | 🐛 691 | 🌐 Vala | 📅 2026-10-24 - A modern Jabber/XMPP Client using GTK+/Vala.
+* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,887 | 🐛 35 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,390 | 🐛 42 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,210 | 🐛 49 | 🌐 Vala | 📅 2026-10-26 - Mind-mapping application.
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,209 | 🐛 49 | 🌐 Vala | 📅 2026-10-26 - Mind-mapping application.
 * [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 628 | 🐛 84 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 605 | 🐛 53 | 🌐 Vala | 📅 2022-03-22 - Presentations App for the modern Linux Desktop.
 * [Notejot](https://github.com/lainsce/notejot) ⚠️ Archived - Stupidly-simple notes app.
-* [Annotator](https://github.com/phase1geo/Annotator) ⭐ 281 | 🐛 9 | 🌐 Vala | 📅 2026-10-28 - Annotate images for better communication.
+* [Annotator](https://github.com/phase1geo/Annotator) ⭐ 281 | 🐛 9 | 🌐 Vala | 📅 2026-10-29 - Annotate images for better communication.
 * [Flowtime](https://github.com/Diego-Ivan/Flowtime) ⭐ 136 | 🐛 13 | 🌐 Vala | 📅 2025-04-28 - GTK4 Libadwaita Pomodoro Timer.
 * [Ideogram](https://github.com/cassidyjames/ideogram) ⚠️ Archived -  Emoji Picker app.
 * [Outliner](https://github.com/phase1geo/Outliner) ⭐ 63 | 🐛 8 | 🌐 Vala | 📅 2026-10-19 - Write outlines easily.
@@ -98,7 +98,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### System Tools
 
 * [Peek](https://github.com/phw/peek) ⚠️ Archived - Simple animated GIF screen recorder with an easy to use interface.
-* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,626 | 🐛 126 | 🌐 Vala | 📅 2026-06-25 - A simple GTK based notification daemon for SwayWM.
+* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,627 | 🐛 126 | 🌐 Vala | 📅 2026-06-25 - A simple GTK based notification daemon for SwayWM.
 * [elementary OS App Center](https://github.com/elementary/appcenter) ⭐ 556 | 🐛 166 | 🌐 Vala | 📅 2026-10-23 - Pay-what-you-can app store for elementary OS.
 * [Monitor](https://github.com/stsdc/monitor) ⭐ 362 | 🐛 46 | 🌐 Vala | 📅 2026-10-28 - Manage processes and monitor system resources.
 * [Man Helper](https://github.com/akarin123/manhelper) ⭐ 11 | 🐛 2 | 🌐 Vala | 📅 2022-07-28 -  A lightweight GTK front-end for man pages.
@@ -205,4 +205,4 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
