@@ -132,7 +132,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2862,
+                "stars": 2863,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -295,11 +295,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T14:53:35Z",
-                "open_issues": 211,
+                "last_commit": "2026-10-30T20:40:56Z",
+                "open_issues": 206,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5778,
+                "stars": 5780,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -331,11 +331,11 @@
                 "id": 83687700,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-24T09:52:25Z",
-                "open_issues": 691,
+                "last_commit": "2026-10-31T09:08:03Z",
+                "open_issues": 688,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2506,
+                "stars": 2505,
                 "topics": [
                   "chat",
                   "dino",
@@ -749,7 +749,7 @@
                 "open_issues": 126,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2628,
+                "stars": 2632,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:22:47.581Z",
+    "last_updated": "2026-10-31T10:54:20.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
