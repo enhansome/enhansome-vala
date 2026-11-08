@@ -21,7 +21,7 @@
                 "open_issues": 40,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5348,
+                "stars": 5347,
                 "topics": [
                   "appcenter",
                   "design",
@@ -51,7 +51,7 @@
                 "open_issues": 80,
                 "owner": "johanmattssonm",
                 "repo": "birdfont",
-                "stars": 564,
+                "stars": 565,
                 "topics": [
                   "font-editor",
                   "fonts",
@@ -132,7 +132,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2868,
+                "stars": 2869,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -264,7 +264,7 @@
                 "open_issues": 290,
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3764,
+                "stars": 3763,
                 "topics": [
                   "animated",
                   "background",
@@ -295,11 +295,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T20:40:56Z",
-                "open_issues": 215,
+                "last_commit": "2026-11-07T12:55:17Z",
+                "open_issues": 211,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5788,
+                "stars": 5791,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -331,7 +331,7 @@
                 "id": 83687700,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-31T09:08:03Z",
+                "last_commit": "2026-11-07T15:18:49Z",
                 "open_issues": 690,
                 "owner": "dino",
                 "repo": "dino",
@@ -749,7 +749,7 @@
                 "open_issues": 126,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2640,
+                "stars": 2644,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -812,7 +812,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T20:04:43Z",
+                "last_commit": "2026-11-08T10:57:20Z",
                 "open_issues": 48,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -1386,7 +1386,7 @@
                 "id": 2933469,
                 "language": "Vala",
                 "license": "LGPL-3.0",
-                "last_commit": "2024-01-24T23:38:44Z",
+                "last_commit": "2026-11-07T23:56:53Z",
                 "open_issues": 35,
                 "owner": "valum-framework",
                 "repo": "valum",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:42:14.292Z",
+    "last_updated": "2026-11-08T11:54:44.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
