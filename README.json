@@ -296,10 +296,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-07T12:55:17Z",
-                "open_issues": 211,
+                "open_issues": 212,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5791,
+                "stars": 5793,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -331,8 +331,8 @@
                 "id": 83687700,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-07T15:18:49Z",
-                "open_issues": 690,
+                "last_commit": "2026-11-08T21:53:23Z",
+                "open_issues": 689,
                 "owner": "dino",
                 "repo": "dino",
                 "stars": 2506,
@@ -431,7 +431,7 @@
                 "open_issues": 52,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1213,
+                "stars": 1214,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -717,7 +717,7 @@
                 "open_issues": 5,
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10544,
+                "stars": 10543,
                 "topics": [
                   "apng",
                   "gif",
@@ -749,7 +749,7 @@
                 "open_issues": 126,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2644,
+                "stars": 2645,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T11:54:44.708Z",
+    "last_updated": "2026-11-09T13:51:27.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
