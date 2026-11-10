@@ -132,7 +132,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2869,
+                "stars": 2870,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -295,11 +295,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-07T12:55:17Z",
-                "open_issues": 212,
+                "last_commit": "2026-11-09T23:33:02Z",
+                "open_issues": 205,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5793,
+                "stars": 5794,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -428,10 +428,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-05T02:51:23Z",
-                "open_issues": 52,
+                "open_issues": 48,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1214,
+                "stars": 1215,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -527,7 +527,7 @@
                 "id": 286141956,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T21:45:25Z",
+                "last_commit": "2026-11-10T02:11:02Z",
                 "open_issues": 9,
                 "owner": "phase1geo",
                 "repo": "Annotator",
@@ -812,7 +812,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-08T10:57:20Z",
+                "last_commit": "2026-11-10T01:32:33Z",
                 "open_issues": 48,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -1060,7 +1060,7 @@
                 "open_issues": 18,
                 "owner": "ebassi",
                 "repo": "graphene",
-                "stars": 440,
+                "stars": 441,
                 "topics": [
                   "3d-transformations",
                   "c",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T13:51:27.982Z",
+    "last_updated": "2026-11-10T13:26:35.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
