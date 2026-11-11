@@ -132,7 +132,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2870,
+                "stars": 2871,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -295,8 +295,8 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-09T23:33:02Z",
-                "open_issues": 205,
+                "last_commit": "2026-11-11T01:48:43Z",
+                "open_issues": 192,
                 "owner": "alainm23",
                 "repo": "planify",
                 "stars": 5794,
@@ -400,7 +400,7 @@
                 "open_issues": 42,
                 "owner": "RajSolai",
                 "repo": "TextSnatcher",
-                "stars": 1392,
+                "stars": 1393,
                 "topics": [
                   "elementary-apps",
                   "flatpak",
@@ -427,7 +427,7 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T02:51:23Z",
+                "last_commit": "2026-11-11T00:11:12Z",
                 "open_issues": 48,
                 "owner": "phase1geo",
                 "repo": "Minder",
@@ -602,7 +602,7 @@
                 "id": 149393279,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-07T06:00:36Z",
+                "last_commit": "2026-11-10T19:14:34Z",
                 "open_issues": 8,
                 "owner": "phase1geo",
                 "repo": "Outliner",
@@ -717,7 +717,7 @@
                 "open_issues": 5,
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10543,
+                "stars": 10544,
                 "topics": [
                   "apng",
                   "gif",
@@ -749,7 +749,7 @@
                 "open_issues": 126,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2645,
+                "stars": 2646,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T13:26:35.255Z",
+    "last_updated": "2026-11-11T12:41:42.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
