@@ -21,7 +21,7 @@
                 "open_issues": 40,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5347,
+                "stars": 5346,
                 "topics": [
                   "appcenter",
                   "design",
@@ -132,7 +132,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2871,
+                "stars": 2870,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -295,11 +295,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T01:48:43Z",
-                "open_issues": 192,
+                "last_commit": "2026-11-11T23:42:22Z",
+                "open_issues": 187,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5794,
+                "stars": 5796,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -331,7 +331,7 @@
                 "id": 83687700,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-08T21:53:23Z",
+                "last_commit": "2026-11-11T15:52:11Z",
                 "open_issues": 689,
                 "owner": "dino",
                 "repo": "dino",
@@ -427,7 +427,7 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T00:11:12Z",
+                "last_commit": "2026-11-11T20:06:42Z",
                 "open_issues": 48,
                 "owner": "phase1geo",
                 "repo": "Minder",
@@ -504,7 +504,7 @@
                 "open_issues": 0,
                 "owner": "lainsce",
                 "repo": "notejot",
-                "stars": 419,
+                "stars": 418,
                 "topics": [
                   "note-taking",
                   "notebook",
@@ -717,7 +717,7 @@
                 "open_issues": 5,
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10544,
+                "stars": 10543,
                 "topics": [
                   "apng",
                   "gif",
@@ -749,7 +749,7 @@
                 "open_issues": 126,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2646,
+                "stars": 2647,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T12:41:42.488Z",
+    "last_updated": "2026-11-12T13:44:25.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
