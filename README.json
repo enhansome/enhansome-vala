@@ -295,11 +295,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T23:42:22Z",
-                "open_issues": 187,
+                "last_commit": "2026-11-12T23:35:20Z",
+                "open_issues": 183,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5796,
+                "stars": 5800,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -335,7 +335,7 @@
                 "open_issues": 689,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2506,
+                "stars": 2507,
                 "topics": [
                   "chat",
                   "dino",
@@ -527,7 +527,7 @@
                 "id": 286141956,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T02:11:02Z",
+                "last_commit": "2026-11-13T05:44:41Z",
                 "open_issues": 9,
                 "owner": "phase1geo",
                 "repo": "Annotator",
@@ -816,7 +816,7 @@
                 "open_issues": 48,
                 "owner": "elementary",
                 "repo": "monitor",
-                "stars": 362,
+                "stars": 361,
                 "topics": [
                   "elementary-apps",
                   "elementary-os",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:44:25.600Z",
+    "last_updated": "2026-11-13T13:04:04.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
