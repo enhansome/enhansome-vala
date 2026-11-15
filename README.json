@@ -296,7 +296,7 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-13T23:58:44Z",
-                "open_issues": 179,
+                "open_issues": 182,
                 "owner": "alainm23",
                 "repo": "planify",
                 "stars": 5802,
@@ -504,7 +504,7 @@
                 "open_issues": 0,
                 "owner": "lainsce",
                 "repo": "notejot",
-                "stars": 418,
+                "stars": 416,
                 "topics": [
                   "note-taking",
                   "notebook",
@@ -527,7 +527,7 @@
                 "id": 286141956,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-14T01:17:49Z",
+                "last_commit": "2026-11-15T07:45:08Z",
                 "open_issues": 9,
                 "owner": "phase1geo",
                 "repo": "Annotator",
@@ -717,7 +717,7 @@
                 "open_issues": 5,
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10543,
+                "stars": 10541,
                 "topics": [
                   "apng",
                   "gif",
@@ -749,7 +749,7 @@
                 "open_issues": 126,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2648,
+                "stars": 2649,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -1386,7 +1386,7 @@
                 "id": 2933469,
                 "language": "Vala",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-07T23:56:53Z",
+                "last_commit": "2026-11-15T04:42:52Z",
                 "open_issues": 35,
                 "owner": "valum-framework",
                 "repo": "valum",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T12:08:48.120Z",
+    "last_updated": "2026-11-15T12:42:40.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
