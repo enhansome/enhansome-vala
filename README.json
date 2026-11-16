@@ -132,7 +132,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2870,
+                "stars": 2871,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -299,7 +299,7 @@
                 "open_issues": 182,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5802,
+                "stars": 5805,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -335,7 +335,7 @@
                 "open_issues": 689,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2507,
+                "stars": 2508,
                 "topics": [
                   "chat",
                   "dino",
@@ -374,7 +374,7 @@
                 "open_issues": 35,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1889,
+                "stars": 1891,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -527,7 +527,7 @@
                 "id": 286141956,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-15T07:45:08Z",
+                "last_commit": "2026-11-15T14:36:34Z",
                 "open_issues": 9,
                 "owner": "phase1geo",
                 "repo": "Annotator",
@@ -552,7 +552,7 @@
                 "open_issues": 13,
                 "owner": "Diego-Ivan",
                 "repo": "Flowtime",
-                "stars": 136,
+                "stars": 137,
                 "topics": [
                   "gtk4",
                   "libadwaita",
@@ -749,7 +749,7 @@
                 "open_issues": 126,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2649,
+                "stars": 2650,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -781,8 +781,8 @@
                 "id": 85217518,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-23T02:43:03Z",
-                "open_issues": 166,
+                "last_commit": "2026-11-16T12:59:51Z",
+                "open_issues": 168,
                 "owner": "elementary",
                 "repo": "appcenter",
                 "stars": 556,
@@ -945,8 +945,8 @@
             "id": 1296890419,
             "language": "Vala",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-11T03:59:46Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-15T16:06:36Z",
+            "open_issues": 4,
             "owner": "ValaTux",
             "repo": "vamposer",
             "stars": 1,
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:42:40.521Z",
+    "last_updated": "2026-11-16T13:36:23.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
