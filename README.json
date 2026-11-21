@@ -132,7 +132,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2878,
+                "stars": 2882,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -264,7 +264,7 @@
                 "open_issues": 290,
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3762,
+                "stars": 3763,
                 "topics": [
                   "animated",
                   "background",
@@ -299,7 +299,7 @@
                 "open_issues": 177,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5807,
+                "stars": 5813,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -428,10 +428,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-19T04:04:57Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "phase1geo",
                 "repo": "Minder",
-                "stars": 1215,
+                "stars": 1214,
                 "topics": [
                   "markdown",
                   "mindmap",
@@ -527,7 +527,7 @@
                 "id": 286141956,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-20T04:31:56Z",
+                "last_commit": "2026-11-21T05:21:09Z",
                 "open_issues": 10,
                 "owner": "phase1geo",
                 "repo": "Annotator",
@@ -746,10 +746,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-06-25T15:18:34Z",
-                "open_issues": 127,
+                "open_issues": 128,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2654,
+                "stars": 2656,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -781,7 +781,7 @@
                 "id": 85217518,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T18:18:21Z",
+                "last_commit": "2026-11-20T21:04:39Z",
                 "open_issues": 166,
                 "owner": "elementary",
                 "repo": "appcenter",
@@ -812,7 +812,7 @@
                 "id": 98550935,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T20:05:01Z",
+                "last_commit": "2026-11-20T16:04:41Z",
                 "open_issues": 48,
                 "owner": "elementary",
                 "repo": "monitor",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T13:58:49.846Z",
+    "last_updated": "2026-11-21T13:26:45.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
