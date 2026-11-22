@@ -132,7 +132,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2882,
+                "stars": 2883,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -299,7 +299,7 @@
                 "open_issues": 177,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5813,
+                "stars": 5814,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -335,7 +335,7 @@
                 "open_issues": 689,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2507,
+                "stars": 2509,
                 "topics": [
                   "chat",
                   "dino",
@@ -374,7 +374,7 @@
                 "open_issues": 35,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1893,
+                "stars": 1894,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -427,8 +427,8 @@
                 "id": 115215556,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-19T04:04:57Z",
-                "open_issues": 40,
+                "last_commit": "2026-11-22T04:12:48Z",
+                "open_issues": 39,
                 "owner": "phase1geo",
                 "repo": "Minder",
                 "stars": 1214,
@@ -749,7 +749,7 @@
                 "open_issues": 128,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2656,
+                "stars": 2655,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T13:26:45.311Z",
+    "last_updated": "2026-11-22T13:18:22.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
