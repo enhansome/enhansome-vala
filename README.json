@@ -21,7 +21,7 @@
                 "open_issues": 40,
                 "owner": "akiraux",
                 "repo": "Akira",
-                "stars": 5345,
+                "stars": 5346,
                 "topics": [
                   "appcenter",
                   "design",
@@ -85,7 +85,7 @@
                 "open_issues": 16,
                 "owner": "dbkangaroo",
                 "repo": "kangaroo",
-                "stars": 519,
+                "stars": 518,
                 "topics": [
                   "ai",
                   "data-transfer",
@@ -132,7 +132,7 @@
                 "open_issues": 272,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2883,
+                "stars": 2891,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -264,7 +264,7 @@
                 "open_issues": 290,
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3763,
+                "stars": 3764,
                 "topics": [
                   "animated",
                   "background",
@@ -296,10 +296,10 @@
                 "language": "Vala",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-19T23:13:33Z",
-                "open_issues": 177,
+                "open_issues": 180,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5814,
+                "stars": 5818,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -335,7 +335,7 @@
                 "open_issues": 689,
                 "owner": "dino",
                 "repo": "dino",
-                "stars": 2509,
+                "stars": 2508,
                 "topics": [
                   "chat",
                   "dino",
@@ -527,7 +527,7 @@
                 "id": 286141956,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-21T05:21:09Z",
+                "last_commit": "2026-11-23T05:33:52Z",
                 "open_issues": 10,
                 "owner": "phase1geo",
                 "repo": "Annotator",
@@ -717,7 +717,7 @@
                 "open_issues": 5,
                 "owner": "phw",
                 "repo": "peek",
-                "stars": 10543,
+                "stars": 10542,
                 "topics": [
                   "apng",
                   "gif",
@@ -749,7 +749,7 @@
                 "open_issues": 128,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2655,
+                "stars": 2653,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -816,7 +816,7 @@
                 "open_issues": 48,
                 "owner": "elementary",
                 "repo": "monitor",
-                "stars": 361,
+                "stars": 362,
                 "topics": [
                   "elementary-apps",
                   "elementary-os",
@@ -882,7 +882,7 @@
             "open_issues": 9,
             "owner": "vala-lang",
             "repo": "valdo",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "templates",
               "vala",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T13:18:22.420Z",
+    "last_updated": "2026-11-23T15:55:45.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
