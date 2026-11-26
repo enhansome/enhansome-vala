@@ -51,7 +51,7 @@
                 "open_issues": 80,
                 "owner": "johanmattssonm",
                 "repo": "birdfont",
-                "stars": 565,
+                "stars": 564,
                 "topics": [
                   "font-editor",
                   "fonts",
@@ -264,7 +264,7 @@
                 "open_issues": 290,
                 "owner": "christianloopp",
                 "repo": "komorebi",
-                "stars": 3764,
+                "stars": 3765,
                 "topics": [
                   "animated",
                   "background",
@@ -295,11 +295,11 @@
                 "id": 154173536,
                 "language": "Vala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-25T03:09:07Z",
+                "last_commit": "2026-11-25T22:56:12Z",
                 "open_issues": 180,
                 "owner": "alainm23",
                 "repo": "planify",
-                "stars": 5820,
+                "stars": 5821,
                 "topics": [
                   "caldav",
                   "gtd",
@@ -374,7 +374,7 @@
                 "open_issues": 35,
                 "owner": "pdfpc",
                 "repo": "pdfpc",
-                "stars": 1894,
+                "stars": 1896,
                 "topics": [
                   "multi-monitor",
                   "pdf-viewer",
@@ -456,7 +456,7 @@
                 "open_issues": 84,
                 "owner": "Philip-Scott",
                 "repo": "Notes-up",
-                "stars": 628,
+                "stars": 629,
                 "topics": [
                   "elementaryos",
                   "linux",
@@ -483,7 +483,7 @@
                 "open_issues": 53,
                 "owner": "Philip-Scott",
                 "repo": "Spice-up",
-                "stars": 605,
+                "stars": 606,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:25:51.720Z"
@@ -749,7 +749,7 @@
                 "open_issues": 128,
                 "owner": "ErikReider",
                 "repo": "SwayNotificationCenter",
-                "stars": 2656,
+                "stars": 2657,
                 "topics": [
                   "adwaita",
                   "gtk",
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T15:33:21.698Z",
+    "last_updated": "2026-11-26T15:09:08.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Vala projects",
